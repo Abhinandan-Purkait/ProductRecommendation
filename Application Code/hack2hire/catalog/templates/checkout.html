@@ -1,0 +1,168 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="CAAR">
+    <title>Dell Store - Best Gaming Laptops</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/jumbotron/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
+
+    <!-- Favicons -->
+    <link rel='icon' href='/static/img/logo.png' type='image/x-icon' sizes="16x16" />
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        .card-header {
+            padding: 0px;
+        }
+
+        #mycard {
+            position: relative;
+            z-index: 10;
+        }
+
+        #mycard:hover {
+            transform: scale(1.025);
+            transition: 1s;
+            position: relative;
+            z-index: 10;
+        }
+
+        .bg-dark {
+            background-color: #007DB8 !important;
+        }
+
+        body::-webkit-scrollbar {
+            width: 0 !important
+        }
+
+        .float {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            border-radius: 50px;
+            text-align: center;
+        }
+
+        .my-float {
+            margin-top: 22px;
+        }
+
+        .modal-content {
+            border-radius: 20px;
+            outline: none;
+        }
+
+        fieldset,
+        h1 {
+            font-size: 1.5em;
+            margin: 10px;
+        }
+
+        .rating {
+            border: none;
+            float: left;
+            margin-left: 30%;
+        }
+
+        .rating>input {
+            display: none;
+        }
+
+        .rating>label:before {
+            margin: 5px;
+            font-size: 1.25em;
+            font-family: FontAwesome;
+            display: inline-block;
+            content: "\f005";
+        }
+
+        .rating>.half:before {
+            content: "\f089";
+            position: absolute;
+        }
+
+        .rating>label {
+            color: #ddd;
+            float: right;
+        }
+
+        .rating>input:checked~label,
+
+        .rating:not(:checked)>label:hover,
+
+        .rating:not(:checked)>label:hover~label {
+            color: #FFD700;
+        }
+
+        .rating>input:checked+label:hover,
+
+        .rating>input:checked~label:hover,
+        .rating>label:hover~input:checked~label,
+        .rating>input:checked~label:hover~label {
+            color: #FFED85;
+        }
+    </style>
+
+    <link href="jumbotron.css" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <a href="/store/"><img class="navbar-brand img-responsive" src="/static/img/logo_white.png" width="80px"
+                height="80px"></a>
+        <ul class="navbar-nav mr-auto navbar-toggler-right">
+            <li class="nav-item float-right">
+                <a class="nav-link" href="/laptops/" style="color: #FCFCFC;">Laptops</a>
+            </li>
+            <li class="nav-item float-right">
+                <a class="nav-link" href="/accessories/" style="color: #FCFCFC;">Accessories</a>
+            </li>
+            <li class="nav-item float-right">
+                <a class="nav-link" href="/analytics/" style="color: #FCFCFC;">Analytics</a>
+            </li>
+            <li class="nav-item float-right">
+                <a class="nav-link" href="/cart/" style="color: #FCFCFC;" onclick="subForm();" id="cartButton">Cart
+                    <!--b
+            style="color: black;">[0]</b--></a>
+                <form method="POST" action="/cart/" id="hiddenForm" style="display: none;"
+                    enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <input type="text" id="clicked_prods" name="clicked_items" maxlength="50000" />
+                </form>
+            </li>
+        </ul>
+    </nav>
+    <div class="jumbotron"
+        style="margin-top: 80px;background-image:url('/static/img/xlarge.jfif');height:200px;background-size:cover;">
+        <div class="container">
+            <h4 style="color: white;"><i>“We share a vision of a future that is better than today.”</i></h4>
+            <h4 style="color: white;">- Michael Dell</h4><br />
+        </div>
+    </div>
+
+    <div class="container">
+        <h1 style="color:green;">{{text1}}</h1>
+        <h1 style="color:red;">{{text2}}</h1>
+    </div>

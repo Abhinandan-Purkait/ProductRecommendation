@@ -1,0 +1,39 @@
+{
+  "name": "Data Miner",
+  "version": "2.0.1",
+  "manifest_version": 2,
+  "permissions": ["storage"],
+  "browser_action": {
+    "default_icon": "logo_white.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.dell.com/*"],
+      "js": ["content.js"]
+    },
+    {
+      "matches": ["https://www.amazon.com/*"],
+      "js": ["amazon.js"]
+    },
+    {
+      "matches": ["https://www.amazon.in/*"],
+      "js": ["amazon.js"]
+    },
+    {
+      "matches": ["https://www.flipkart.com/*"],
+      "js": ["flipkart.js"]
+    },
+    {
+      "matches": ["http://localhost:8000/"],
+      "js": ["dell.js"]
+    },
+    {
+      "matches": ["https://www.google.com/*"],
+      "js": ["google.js"]
+    },
+    {
+      "matches": ["https://www.google.co.in/*"],
+      "js": ["google.js"]
+    }
+  ]
+}

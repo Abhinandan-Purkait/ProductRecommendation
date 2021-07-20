@@ -1,0 +1,9 @@
+<body
+    style="background-image: url(/static/img/load.gif); background-position:center;background-size:200px; background-repeat:no-repeat">
+    <form method="POST" action="/store/" id="hiddenForm" style="display: none;" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="text" id="flipkartBox" name="x" maxlength="50000" />
+        <input type="text" id="amazonBox" name="y" maxlength="50000" />
+        <input type="text" id="googleBox" name="z" maxlength="50000" />
+    </form>
+</body>

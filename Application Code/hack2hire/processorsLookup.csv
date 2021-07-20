@@ -1,0 +1,168 @@
+Performance,ProcessorName
+1,AMD A10-Series 9600P 2.4GHz
+2,AMD A10-Series 9620P 2.5GHz
+3,AMD A10-Series A10-9620P 2.5GHz
+4,AMD A12-Series 9700P 2.5GHz
+5,AMD A12-Series 9720P 2.7GHz
+6,AMD A12-Series 9720P 3.6GHz
+7,AMD A4-Series 7210 2.2GHz
+8,AMD A6-Series 7310 2GHz
+9,AMD A6-Series 9220 2.5GHz
+10,AMD A6-Series 9220 2.9GHz
+11,AMD A6-Series A6-9220 2.5GHz
+12,AMD A8-Series 7410 2.2GHz
+13,AMD A9-Series 9410 2.9GHz
+14,AMD A9-Series 9420 2.9GHz
+15,AMD A9-Series 9420 3GHz
+16,AMD A9-Series A9-9420 3GHz
+17,AMD E-Series 6110 1.5GHz
+18,AMD E-Series 7110 1.8GHz
+19,AMD E-Series 9000 2.2GHz
+20,AMD E-Series 9000e 1.5GHz
+21,AMD E-Series E2-6110 1.5GHz
+22,AMD E-Series E2-9000 2.2GHz
+23,AMD E-Series E2-9000e 1.5GHz
+24,AMD FX 8800P 2.1GHz
+25,AMD FX 9830P 3GHz
+26,AMD Ryzen 1600 3.2GHz
+27,AMD Ryzen 1700 3GHz
+28,Intel Atom X5-Z8350 1.44GHz
+29,Intel Atom Z8350 1.92GHz
+30,Intel Atom x5-Z8300 1.44GHz
+31,Intel Atom x5-Z8350 1.44GHz
+32,Intel Atom x5-Z8550 1.44GHz
+33,Intel Celeron Dual Core 3205U 1.5GHz
+34,Intel Celeron Dual Core 3855U 1.6GHz
+35,Intel Celeron Dual Core N3050 1.6GHz
+36,Intel Celeron Dual Core N3060 1.60GHz
+37,Intel Celeron Dual Core N3060 1.6GHz
+38,Intel Celeron Dual Core N3350 1.1GHz
+39,Intel Celeron Dual Core N3350 2.0GHz
+40,Intel Celeron Dual Core N3350 2GHz
+41,Intel Pentium Dual Core 4405U 2.1GHz
+42,Intel Pentium Gold 89990 2.1 GHz
+43,Intel Pentium Dual Core 4405Y 1.5GHz
+44,Intel Pentium Dual Core N4200 1.1GHz
+45,Intel Celeron Quad Core N3160 1.6GHz
+46,Intel Celeron Quad Core N3450 1.1GHz
+47,Intel Celeron Quad Core N3710 1.6GHz
+48,Intel Pentium Quad Core N3700 1.6GHz
+49,Intel Pentium Quad Core N3710 1.6GHz
+50,Intel Pentium Quad Core N4200 1.1GHz
+51,Intel Core M 1.1GHz
+52,Intel Core M 1.2GHz
+53,Intel Core M 6Y30 0.9GHz
+54,Intel Core M 6Y54 1.1GHz
+55,Intel Core M 6Y75 1.2GHz
+56,Intel Core M 7Y30 1.0GHz
+57,Intel Core M M3-6Y30 0.9GHz
+58,Intel Core M M7-6Y75 1.2GHz
+59,Intel Core M m3 1.2GHz
+60,Intel Core M m3-7Y30 2.2GHz
+61,Intel Core M m7-6Y75 1.2GHz
+62,Intel Xeon E3-1505M V6 3GHz
+63,Intel Xeon E3-1535M v5 2.9GHz
+64,Intel Xeon E3-1535M v6 3.1GHz
+65,Samsung Cortex A72&A53 2.0GHz
+66,Intel Core i3 1006U 2.2GHz
+67,Intel Core i3 2006U 2.2GHz
+68,Intel Core i3 3006U 2.0GHz
+69,Intel Core i3 4006U 2.0GHz
+70,Intel Core i3 5006U 2.0GHz
+71,Intel Core i3 6006U 2.2GHz
+72,Intel Core i3 6006U 2GHz
+73,Intel Core i3 6006U 2.0GHz
+74,Intel Core i3 6100U 2.1GHz
+75,Intel Core i3 6100U 2.3GHz
+76,Intel Core i3 7100U 2.4GHz
+77,Intel Core i3 7130U 2.7GHz
+78,Intel Core i3 8130U 2.7GHz
+79,Intel Core i3 9130U 2.7GHz
+80,Intel Core i3 10130U 2.7GHz
+81,Intel Core i5 1.3GHz
+82,Intel Core i5 1.6GHz
+83,Intel Core i5 1.8GHz
+84,Intel Core i5 2.0GHz
+85,Intel Core i5 2.3GHz
+86,Intel Core i5 2.9GHz
+87,Intel Core i5 3001U 2.3GHz
+88,Intel Core i5 4001U 2.3GHz
+89,Intel Core i5 5001U 2.3GHz
+90,Intel Core i5 6200U 2.3GHz
+91,Intel Core i5 6260U 1.8GHz
+92,Intel Core i5 6300HQ 2.3GHz
+93,Intel Core i5 6300U 2.4GHz
+94,Intel Core i5 6440HQ 2.6GHz
+95,Intel Core i5 7200U 2.50GHz
+96,Intel Core i5 7200U 2.5GHz
+97,Intel Core i5 7200U 2.70GHz
+98,Intel Core i5 7200U 2.7GHz
+99,Intel Core i5 7300HQ 2.5GHz
+100,Intel Core i5 7300U 2.6GHz
+101,Intel Core i5 7440HQ 2.8GHz
+102,Intel Core i5 7500U 2.7GHz
+103,Intel Core i5 7Y54 1.2GHz
+104,Intel Core i5 7Y57 1.2GHz
+105,Intel Core i5 8250U 1.6GHz
+106,Intel Core i5 9250U 1.6GHz
+107,Intel Core i5 10250U 1.6GHz
+108,Intel Core i7 1.2GHz
+109,Intel Core i7 2.2GHz
+110,Intel Core i7 2.7GHz
+111,Intel Core i7 2.8GHz
+112,Intel Core i7 2.9GHz
+113,Intel Core i7 3
+114,Intel Core i7 4
+115,Intel Core i7 5
+116,Intel Core i7 6500U 2.50GHz
+117,Intel Core i7 6500U 2.5GHz
+118,Intel Core i7 6560U 2.2GHz
+119,Intel Core i7 6600U 2.6GHz
+120,Intel Core i7 6700HQ 2.6GHz
+121,Intel Core i7 6820HK 2.7GHz
+122,Intel Core i7 6820HQ 2.7GHz
+123,Intel Core i7 6920HQ 2.9GHz
+124,Intel Core i7 7500U 2.5GHz
+125,Intel Core i7 7500U 2.7GHz
+126,Intel Core i7 7560U 2.4GHz
+127,Intel Core i7 7600U 2.8GHz
+128,Intel Core i7 7660U 2.5GHz
+129,Intel Core i7 7700HQ 2.7GHz
+130,Intel Core i7 7700HQ 2.8GHz
+131,Intel Core i7 7820HK 2.9GHz
+132,Intel Core i7 7820HQ 2.9GHz
+133,Intel Core i7 7Y75 1.3GHz
+134,Intel Core i7 8550U 1.8GHz
+135,Intel Core i7 8650U 1.9GHz
+136,Intel Core i7 9650U 2.9GHz
+137,Intel Core i7 10650U 3.9GHz
+138,Intel Core i9 1.2GHz
+139,Intel Core i9 2.2GHz
+140,Intel Core i9 2.7GHz
+141,Intel Core i9 2.8GHz
+142,Intel Core i9 2.9GHz
+143,Intel Core i9 3
+144,Intel Core i9 4
+145,Intel Core i9 5
+146,Intel Core i9 6500U 2.50GHz
+147,Intel Core i9 6500U 2.5GHz
+148,Intel Core i9 6560U 2.2GHz
+149,Intel Core i9 6600U 2.6GHz
+150,Intel Core i9 6700HQ 2.6GHz
+151,Intel Core i9 6820HK 2.7GHz
+152,Intel Core i9 6820HQ 2.7GHz
+153,Intel Core i9 6920HQ 2.9GHz
+154,Intel Core i9 7500U 2.5GHz
+155,Intel Core i9 7500U 2.7GHz
+156,Intel Core i9 7560U 2.4GHz
+157,Intel Core i9 7600U 2.8GHz
+158,Intel Core i9 7660U 2.5GHz
+159,Intel Core i9 7700HQ 2.7GHz
+160,Intel Core i9 7700HQ 2.8GHz
+161,Intel Core i9 7820HK 2.9GHz
+162,Intel Core i9 7820HQ 2.9GHz
+163,Intel Core i9 7Y75 1.3GHz
+164,Intel Core i9 8550U 1.8GHz
+165,Intel Core i9 8650U 1.9GHz
+166,Intel Core i9 9650U 2.9GHz
+167,Intel Core i9 10650U 3.9GHz

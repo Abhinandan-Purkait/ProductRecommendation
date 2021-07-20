@@ -1,0 +1,144 @@
+,Price,Cpu,Ram
+1,20106.75,Intel Atom x5-Z8350 1.44GHz,4
+2,20343.3,AMD E-Series E2-9000e 1.5GHz,4
+3,20422.15,Intel Celeron Dual Core N3060 1.6GHz,4
+4,20501,Intel Celeron Dual Core N3350 1.1GHz,4
+5,20895.25,Intel Celeron Dual Core N3060 1.6GHz,4
+6,20895.25,Intel Atom Z8350 1.92GHz,4
+7,21210.65,Intel Celeron Dual Core N3060 1.6GHz,4
+8,21210.65,Intel Celeron Dual Core N3050 1.6GHz,4
+9,21338.387,Intel Celeron Dual Core N3350 1.1GHz,4
+10,21447.2,Intel Celeron Dual Core N3350 2GHz,4
+11,21604.9,Intel Celeron Dual Core N3060 1.6GHz,4
+12,21675.865,Intel Celeron Dual Core N3060 1.6GHz,4
+13,21682.9615,Intel Celeron Dual Core N3350 1.1GHz,4
+14,21683.75,Intel Celeron Dual Core N3350 1.1GHz,2
+15,21919.5115,AMD E-Series 6110 1.5GHz,4
+16,21920.3,Intel Celeron Dual Core N3350 1.1GHz,4
+17,21999.15,Intel Celeron Dual Core N3060 1.6GHz,2
+18,22551.1,Intel Celeron Dual Core N3350 1.1GHz,4
+19,22700.915,Intel Celeron Dual Core N3060 1.6GHz,4
+20,22779.765,Intel Celeron Dual Core N3060 1.6GHz,4
+21,22787.65,Intel Celeron Dual Core N3060 1.6GHz,4
+22,22787.65,Intel Celeron Dual Core N3060 1.6GHz,4
+23,22787.65,Intel Celeron Dual Core N3060 1.6GHz,4
+24,23024.2,Intel Celeron Dual Core N3350 1.1GHz,4
+25,23260.75,Intel Celeron Dual Core N3060 1.6GHz,4
+26,23418.45,Intel Celeron Dual Core N3060 1.6GHz,4
+27,23418.45,AMD E-Series 7110 1.8GHz,4
+28,23497.3,Intel Celeron Dual Core N3350 1.1GHz,4
+29,23497.3,AMD A6-Series 7310 2GHz,4
+30,23497.3,Intel Pentium Quad Core N4200 1.1GHz,4
+31,23576.15,Intel Celeron Dual Core N3350 1.1GHz,4
+32,23576.15,Intel Celeron Dual Core N3350 1.1GHz,4
+33,23576.15,Intel Celeron Dual Core N3350 1.1GHz,4
+34,23576.15,Intel Celeron Dual Core N3060 1.6GHz,4
+35,23576.15,AMD E-Series 9000 2.2GHz,4
+36,23970.4,Intel Pentium Quad Core N4200 1.1GHz,4
+37,24005.8825,Intel Celeron Dual Core N3350 1.1GHz,2
+38,24128.1,Intel Celeron Dual Core N3350 1.1GHz,4
+39,24364.65,AMD A6-Series 9220 2.9GHz,4
+40,24364.65,Intel Celeron Dual Core N3060 1.60GHz,4
+41,24364.65,Intel Pentium Quad Core N4200 1.1GHz,4
+42,24364.65,Intel Pentium Quad Core N3710 1.6GHz,4
+43,25074.3,Intel Celeron Dual Core 3855U 1.6GHz,4
+44,25153.15,Intel Atom x5-Z8550 1.44GHz,4
+45,25388.9115,Intel Celeron Dual Core N3350 1.1GHz,4
+46,25547.4,Intel Pentium Quad Core N3710 1.6GHz,4
+47,25626.25,Intel Celeron Quad Core N3160 1.6GHz,4
+48,25941.65,Intel Celeron Quad Core N3450 1.1GHz,4
+49,25941.65,Intel Celeron Quad Core N3710 1.6GHz,8
+50,26020.5,AMD E-Series 9000e 1.5GHz,4
+51,26020.5,Intel Celeron Dual Core N3060 1.6GHz,2
+52,26257.05,Intel Celeron Dual Core N3350 2GHz,4
+53,26730.15,Intel Core i3 6006U 2.0GHz,4
+54,26730.15,Intel Celeron Dual Core N3350 1.1GHz,4
+55,26809,Intel Celeron Dual Core N3350 1.1GHz,4
+56,27124.4,Intel Celeron Dual Core N3350 1.1GHz,4
+57,27124.4,Intel Pentium Quad Core N4200 1.1GHz,4
+58,27202.4615,Intel Core i3 6006U 2GHz,4
+59,27281.3115,Intel Core i3 6006U 2GHz,4
+60,27360.95,Intel Celeron Dual Core N3060 1.6GHz,4
+61,27439.8,Intel Celeron Dual Core N3350 1.1GHz,4
+62,27439.8,Intel Celeron Dual Core N3350 1.1GHz,4
+63,27518.65,AMD E-Series E2-9000e 1.5GHz,4
+64,27518.65,Intel Core i3 6006U 2GHz,4
+65,27518.65,Intel Pentium Quad Core N4200 1.1GHz,4
+66,27518.65,AMD E-Series 7110 1.8GHz,4
+67,27518.65,Intel Celeron Dual Core N3350 2.0GHz,4
+68,27518.65,Intel Pentium Quad Core N3710 1.6GHz,4
+69,27518.65,AMD E-Series E2-9000 2.2GHz,4
+70,27518.65,Intel Celeron Dual Core N3060 1.6GHz,4
+71,27991.75,Intel Celeron Dual Core N3060 1.6GHz,4
+72,28307.15,Intel Core i3 6006U 2.0GHz,4
+73,28307.15,Intel Celeron Dual Core 3205U 1.5GHz,4
+74,28385.2115,Intel Pentium Quad Core N4200 1.1GHz,4
+75,28527.93,Intel Core i3 6006U 2.0GHz,4
+76,28662.7635,Intel Pentium Quad Core N4200 1.1GHz,4
+77,28772.365,Intel Core i3 6006U 2GHz,4
+78,28937.95,Intel Core i3 7130U 2.7GHz,4
+79,29016.8,Intel Core i3 6006U 2GHz,4
+80,29095.65,Intel Core i3 6006U 2GHz,4
+81,29095.65,AMD A6-Series 9220 2.5GHz,4
+82,29095.65,Intel Celeron Quad Core N3450 1.1GHz,4
+83,29095.65,Intel Pentium Quad Core N3710 1.6GHz,4
+84,29095.65,Intel Celeron Dual Core N3050 1.6GHz,4
+85,29095.65,Intel Celeron Dual Core N3050 1.6GHz,4
+86,29095.65,Intel Celeron Dual Core N3050 1.6GHz,4
+87,29095.65,Intel Celeron Dual Core N3050 1.6GHz,4
+88,29568.75,Intel Celeron Dual Core N3350 1.1GHz,4
+89,29568.75,Intel Celeron Dual Core 3855U 1.6GHz,4
+90,29884.15,Intel Celeron Quad Core N3160 1.6GHz,4
+91,29884.15,AMD A4-Series 7210 2.2GHz,4
+92,29884.15,Intel Celeron Dual Core N3050 1.6GHz,2
+93,29884.15,Intel Celeron Dual Core N3050 1.6GHz,2
+94,29884.15,Intel Celeron Dual Core N3050 1.6GHz,2
+95,29963,Intel Pentium Quad Core N4200 1.1GHz,4
+96,30278.4,Intel Core i3 7100U 2.4GHz,4
+97,31026.6865,Intel Pentium Quad Core N3700 1.6GHz,4
+98,31059.015,Intel Core i5 7200U 2.5GHz,4
+99,31145.75,AMD A9-Series 9420 3GHz,4
+100,31303.45,Intel Core i3 6006U 2GHz,4
+101,31382.3,AMD A6-Series 9220 2.5GHz,4
+102,31382.3,Intel Core i5 6200U 2.3GHz,4
+103,31420.9365,AMD A6-Series 9220 2.5GHz,4
+104,31460.3615,Intel Core i3 7100U 2.4GHz,4
+105,31460.3615,Intel Pentium Quad Core N3710 1.6GHz,4
+106,31460.3615,Intel Pentium Quad Core N4200 1.1GHz,4
+107,31461.15,AMD A6-Series 9220 2.5GHz,4
+108,31461.15,Intel Celeron Dual Core N3350 1.1GHz,8
+109,31461.15,AMD A9-Series 9420 2.9GHz,4
+110,31461.15,AMD A6-Series 9220 2.5GHz,4
+111,31540,AMD A9-Series 9420 3GHz,4
+112,31776.55,AMD A9-Series 9420 3GHz,4
+113,31815.975,Intel Core i3 6006U 2GHz,4
+114,32249.65,Intel Core i3 6006U 2GHz,4
+115,32249.65,AMD A9-Series 9420 3GHz,6
+116,32391.58,Intel Core i3 6006U 2GHz,4
+117,35561.35,AMD A9-Series 9420 3GHz,4
+118,35931.945,Intel Core i3 6006U 2.0GHz,4
+119,36192.15,Intel Core i3 7100U 2.4GHz,8
+120,36192.15,Intel Core i3 6006U 2GHz,8
+121,36192.15,Intel Core i3 6100U 2.3GHz,8
+122,36192.15,Intel Core i3 6006U 2.0GHz,8
+123,36192.15,Intel Core i3 7100U 2.4GHz,6
+124,36192.15,Intel Core i3 7100U 2.4GHz,6
+125,36192.15,Intel Core i3 7100U 2.4GHz,6
+126,36263.115,Intel Celeron Dual Core 3855U 1.6GHz,4
+127,36456.2975,Intel Core i5 6200U 2.3GHz,4
+128,36665.25,Intel Core i3 6006U 2GHz,4
+129,36714.137,Intel Core i3 6006U 2.0GHz,4
+130,36744.1,Intel Pentium Quad Core N4200 1.1GHz,4
+131,36822.95,Intel Core i5 7200U 2.5GHz,4
+132,36901.8,Intel Core i5 7200U 2.5GHz,4
+133,36901.8,Intel Core i3 6006U 2GHz,4
+134,36980.65,AMD A9-Series 9420 3GHz,4
+135,36980.65,Intel Core i3 6006U 2GHz,4
+136,36980.65,AMD A8-Series 7410 2.2GHz,8
+137,36980.65,Intel Core i3 6006U 2GHz,4
+138,36980.65,Intel Core i3 6006U 2GHz,4
+139,36980.65,Intel Core i3 6006U 2.0GHz,4
+140,36981.4385,Intel Core i3 7100U 2.4GHz,8
+141,37086.309,Intel Pentium Quad Core N4200 1.1GHz,4
+142,37453.75,Intel Celeron Dual Core N3060 1.6GHz,4
+143,37610.6615,Intel Core i5 6200U 2.3GHz,4

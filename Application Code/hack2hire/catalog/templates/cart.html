@@ -1,0 +1,153 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="CAAR">
+    <title>Dell Store - Best Gaming Laptops</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/jumbotron/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
+
+    <!-- Favicons -->
+    <link rel='icon' href='/static/img/logo.png' type='image/x-icon' sizes="16x16" />
+    <style>
+        .nav-link {
+            padding: 0px;
+        }
+
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        .card-header {
+            padding: 0px;
+        }
+
+        #mycard {
+            position: relative;
+            z-index: 10;
+        }
+
+        #mycard:hover {
+            transform: scale(1.025);
+            transition: 1s;
+            position: relative;
+            z-index: 10;
+        }
+
+        .bg-dark {
+            background-color: #007DB8 !important;
+        }
+
+        body::-webkit-scrollbar {
+            width: 0 !important
+        }
+    </style>
+</head>
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a href="/store/"><img class="navbar-brand img-responsive" src="/static/img/logo_white.png" width="80px"
+            height="80px"></a>
+    <ul class="navbar-nav mr-auto navbar-toggler-right">
+        <li class="nav-item float-right">
+            <a class="nav-link" href="/laptops/" style="color: #FCFCFC;">Laptops</a>
+        </li>
+        <li class="nav-item float-right">
+            <a class="nav-link" href="/accessories/" style="color: #FCFCFC;">Accessoriess</a>
+        </li>
+        <li class="nav-item float-right">
+            <a class="nav-link" href="/analytics/" style="color: #FCFCFC;">Analytics</a>
+        </li>
+        <li class="nav-item float-right">
+            <a class="nav-link" href="/cart/" style="color: #FCFCFC;" id="cartButton">Cart</a>
+        </li>
+    </ul>
+</nav>
+<div class="jumbotron"
+    style="margin-top: 80px;background-image:url('/static/img/xlarge.jfif');height:400px;background-size:cover;">
+    <div class="container">
+        <br /><br /><br /><br />
+        <h4 style="color: white;"><i>“We share a vision of a future that is better than today.”</i></h4>
+        <h4 style="color: white;">- Michael Dell</h4><br />
+    </div>
+</div>
+
+<div class="row" style="padding-left: 100px; padding-right:100px">
+    {% for laptops in list %}
+    <div class="col-lg-4 col-sm-6 col-md-6 col-xs-4" id="myCard">
+        <div class="text-justify">
+            <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                    <img src="/static/img/{{ laptops.image }}" class="card-img-top" alt="..." style="height:250px;">
+                </div>
+                <div class="card-body" style="background-color: #FCFCFC; color:black;">
+                    <h1 class="card-title name-card-title">{{ laptops.product }}</h1>
+                    <h2 class="card-title pricing-card-title">₹ {{ laptops.numFormat }}</h2>
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li>
+                            <p>
+                                {{ laptops.cpu }} , {{ laptops.ram }} , {{ laptops.typename }} , {{ laptops.inches }} ,
+                                {{ laptops.screenresolution }} , {{ laptops.memory }} , {{ laptops.gpu }} ,
+                                {{ laptops.opsys }}
+                            </p>
+                        </li>
+                        <li>
+                            <ul>
+                                <center>
+                                    <h4>You may also like !</h4>
+                                </center>
+                                <li>
+                                    <div style="float: left;width:auto;">MOUSE : {{ laptops.mouse }}</div>
+                                    <div style="float: right;width:auto;"><i
+                                            style="font-size:30px;text-align: right;"><b style="color: blue;">+</b>
+                                            <b style="color: red;">-</b></i></div style="float: left;">
+                                </li>
+                                <li>
+                                    <div style="float: left;width:auto;">KEYBOARD : {{ laptops.keyboard }}
+                                    </div>
+                                    <div style="float: right;width:auto;"><i style="font-size:30px;text-align:right;"><b
+                                                style="color: blue;">+</b>
+                                            <b style="color: red;">-</b></i></div style="float: left;">
+                                </li>
+                                <li>
+                                    <div style="float: left;width:auto;">HEADSET : {{ laptops.headset }}
+                                    </div>
+                                    <div style="float: right;width:auto;"><i style="font-size:30px;text-align:right;"><b
+                                                style="color: blue;">+</b>
+                                            <b style="color: red;">-</b></i></div style="float: left;">
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <form method="POST" action="/rmcart/" id="hiddenForm" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <input type="text" id="rmtxt" name="rmvtxt" style="display: none;" value="{{laptops.id}}">
+                        <input type="submit" class="btn btn-lg btn-block btn-danger" value="Remove">
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+<div class="container" style="text-align: center;">
+    <a class="btn btn-success" href="/checkout/">Checkout</a>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+</script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>

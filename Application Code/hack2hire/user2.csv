@@ -1,0 +1,144 @@
+Company,Product,Cpu,Ram,Price,Gpu
+Mediacom,SmartBook 130,Intel Atom x5-Z8350 1.44GHz,4,20106.75,Intel HD Graphics
+HP,255 G6,AMD E-Series E2-9000e 1.5GHz,4,20343.3,AMD Radeon R2
+HP,250 G6,Intel Celeron Dual Core N3060 1.6GHz,4,20422.15,Intel HD Graphics 400
+Vero,K147 (N3350/4GB/32GB/FHD/W10),Intel Celeron Dual Core N3350 1.1GHz,4,20501,Intel HD Graphics 500
+Lenovo,Chromebook N23,Intel Celeron Dual Core N3060 1.6GHz,4,20895.25,Intel HD Graphics 400
+Mediacom,Smartbook 142,Intel Atom Z8350 1.92GHz,4,20895.25,Intel HD Graphics 400
+Samsung,Chromebook 3,Intel Celeron Dual Core N3060 1.6GHz,4,21210.65,Intel HD Graphics 400
+Acer,TravelMate B117-M,Intel Celeron Dual Core N3050 1.6GHz,4,21210.65,Intel HD Graphics
+Lenovo,V110-15IAP (N3350/4GB/128GB/No,Intel Celeron Dual Core N3350 1.1GHz,4,21338.387,Intel HD Graphics 500
+Acer,Aspire 3,Intel Celeron Dual Core N3350 2GHz,4,21447.2,Intel HD Graphics 500
+Lenovo,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3060 1.6GHz,4,21604.9,Intel HD Graphics
+Dell,Inspiron 3552,Intel Celeron Dual Core N3060 1.6GHz,4,21675.865,Intel HD Graphics
+Asus,X541NA (N3350/4GB/1TB/Linux),Intel Celeron Dual Core N3350 1.1GHz,4,21682.9615,Intel HD Graphics 500
+Asus,VivoBook Flip,Intel Celeron Dual Core N3350 1.1GHz,2,21683.75,Intel HD Graphics 500
+Asus,E402WA-GA007T (E2-6110/4GB/64GB/W10,AMD E-Series 6110 1.5GHz,4,21919.5115,AMD Radeon R2
+Asus,L403NA-GA013TS (N3350/4GB/32GB/W10),Intel Celeron Dual Core N3350 1.1GHz,4,21920.3,Intel HD Graphics 500
+HP,Stream 14-AX001nv,Intel Celeron Dual Core N3060 1.6GHz,2,21999.15,Intel HD Graphics 400
+Asus,VivoBook E403NA,Intel Celeron Dual Core N3350 1.1GHz,4,22551.1,Intel HD Graphics 500
+Asus,Chromebook C202SA,Intel Celeron Dual Core N3060 1.6GHz,4,22700.915,Intel HD Graphics 400
+HP,250 G6,Intel Celeron Dual Core N3060 1.6GHz,4,22779.765,Intel HD Graphics 400
+Acer,Aspire ES1-531,Intel Celeron Dual Core N3060 1.6GHz,4,22787.65,Intel HD Graphics 400
+Acer,Aspire ES1-531,Intel Celeron Dual Core N3060 1.6GHz,4,22787.65,Intel HD Graphics 400
+Acer,Aspire ES1-531,Intel Celeron Dual Core N3060 1.6GHz,4,22787.65,Intel HD Graphics 400
+Lenovo,IdeaPad 120S-14IAP,Intel Celeron Dual Core N3350 1.1GHz,4,23024.2,Intel HD Graphics 500
+Dell,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,4,23260.75,Intel HD Graphics 400
+Acer,Chromebook C731-C78G,Intel Celeron Dual Core N3060 1.6GHz,4,23418.45,Intel HD Graphics 400
+HP,15-BA015wm (E2-7110/4GB/500GB/W10),AMD E-Series 7110 1.8GHz,4,23418.45,AMD Radeon R2 Graphics
+Asus,VivoBook E403NA,Intel Celeron Dual Core N3350 1.1GHz,4,23497.3,Intel HD Graphics 500
+Lenovo,110-15ACL (A6-7310/4GB/500GB/W10),AMD A6-Series 7310 2GHz,4,23497.3,AMD Radeon R4
+Acer,Aspire A315-31,Intel Pentium Quad Core N4200 1.1GHz,4,23497.3,Intel HD Graphics 505
+Mediacom,FlexBook Edge,Intel Celeron Dual Core N3350 1.1GHz,4,23576.15,Intel HD Graphics 500
+Lenovo,IdeaPad 320-14IAP,Intel Celeron Dual Core N3350 1.1GHz,4,23576.15,Intel HD Graphics 500
+Asus,R417NA-RS01 (N3350/4GB/32GB/W10),Intel Celeron Dual Core N3350 1.1GHz,4,23576.15,Intel HD Graphics 500
+HP,250 G6,Intel Celeron Dual Core N3060 1.6GHz,4,23576.15,Intel HD Graphics 400
+Lenovo,IdeaPad 320-15AST,AMD E-Series 9000 2.2GHz,4,23576.15,AMD Radeon R2 Graphics
+Asus,X541NA-PD1003Y (N4200/4GB/500GB/W10),Intel Pentium Quad Core N4200 1.1GHz,4,23970.4,Intel HD Graphics 500
+Lenovo,Lenovo IdeaPad,Intel Celeron Dual Core N3350 1.1GHz,2,24005.8825,Intel HD Graphics 500
+Lenovo,IdeaPad 320-15IAP,Intel Celeron Dual Core N3350 1.1GHz,4,24128.1,Intel HD Graphics 500
+Lenovo,IdeaPad 320-15AST,AMD A6-Series 9220 2.9GHz,4,24364.65,AMD Radeon R4 Graphics
+Dell,Inspiron 3552,Intel Celeron Dual Core N3060 1.60GHz,4,24364.65,Intel HD Graphics 400
+Lenovo,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,4,24364.65,Intel HD Graphics 505
+Asus,X540SA-RBPDN09 (N3710/4GB/1TB/W10),Intel Pentium Quad Core N3710 1.6GHz,4,24364.65,Intel HD Graphics 405
+Lenovo,V110-15ISK (3855U/4GB/500GB/W10),Intel Celeron Dual Core 3855U 1.6GHz,4,25074.3,Intel HD Graphics 510
+Lenovo,Yoga Book,Intel Atom x5-Z8550 1.44GHz,4,25153.15,Intel HD Graphics 400
+Lenovo,IdeaPad 320-15IAP,Intel Celeron Dual Core N3350 1.1GHz,4,25388.9115,Intel HD Graphics 500
+Dell,Inspiron 3552,Intel Pentium Quad Core N3710 1.6GHz,4,25547.4,Intel HD Graphics
+Lenovo,N42-20 Chromebook,Intel Celeron Quad Core N3160 1.6GHz,4,25626.25,Intel HD Graphics 400
+Acer,Aspire 1,Intel Celeron Quad Core N3450 1.1GHz,4,25941.65,Intel HD Graphics 500
+Lenovo,IdeaPad 110-15IBR,Intel Celeron Quad Core N3710 1.6GHz,8,25941.65,Intel HD Graphics 405
+HP,15-rb013nv (E2-9000e/4GB/500GB/W10),AMD E-Series 9000e 1.5GHz,4,26020.5,AMD Radeon R2
+Acer,Chromebook 14,Intel Celeron Dual Core N3060 1.6GHz,2,26020.5,Intel HD Graphics 400
+Acer,Aspire 3,Intel Celeron Dual Core N3350 2GHz,4,26257.05,Intel HD Graphics 500
+Lenovo,V110-15ISK (i3-6006U/4GB/1TB/No,Intel Core i3 6006U 2.0GHz,4,26730.15,Intel HD Graphics 520
+Asus,X541NA-GO020T (N3350/4GB/1TB/W10),Intel Celeron Dual Core N3350 1.1GHz,4,26730.15,Intel HD Graphics 500
+Asus,VivoBook E201NA,Intel Celeron Dual Core N3350 1.1GHz,4,26809,Intel HD Graphics 500
+Asus,X541NA (N3350/4GB/1TB/FHD/W10),Intel Celeron Dual Core N3350 1.1GHz,4,27124.4,Intel HD Graphics 500
+Lenovo,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,4,27124.4,Intel HD Graphics 505
+HP,250 G6,Intel Core i3 6006U 2GHz,4,27202.4615,Intel HD Graphics 520
+HP,250 G6,Intel Core i3 6006U 2GHz,4,27281.3115,Intel HD Graphics 520
+HP,15-ra044nv (N3060/4GB/500GB/W10),Intel Celeron Dual Core N3060 1.6GHz,4,27360.95,Intel HD Graphics 400
+Acer,Aspire A315-31,Intel Celeron Dual Core N3350 1.1GHz,4,27439.8,Intel HD Graphics 500
+Asus,VivoBook L402NA,Intel Celeron Dual Core N3350 1.1GHz,4,27439.8,Intel HD Graphics 500
+HP,15-bw000nv (E2-9000e/4GB/500GB/Radeon,AMD E-Series E2-9000e 1.5GHz,4,27518.65,AMD Radeon R2
+HP,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,Intel Core i3 6006U 2GHz,4,27518.65,Intel HD Graphics 520
+Lenovo,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,4,27518.65,Intel HD Graphics 505
+Asus,VivoBook X540YA-XX519T,AMD E-Series 7110 1.8GHz,4,27518.65,AMD Radeon R2 Graphics
+Acer,Spin SP111-31,Intel Celeron Dual Core N3350 2.0GHz,4,27518.65,Intel HD Graphics 500
+Acer,Swift SF114-31-P5HY,Intel Pentium Quad Core N3710 1.6GHz,4,27518.65,Intel HD Graphics 405
+Lenovo,IdeaPad 320-15AST,AMD E-Series E2-9000 2.2GHz,4,27518.65,AMD Radeon R2 Graphics
+Acer,Chromebook 14,Intel Celeron Dual Core N3060 1.6GHz,4,27518.65,Intel HD Graphics 400
+Acer,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,4,27991.75,Intel HD Graphics 400
+Dell,Inspiron 3567,Intel Core i3 6006U 2.0GHz,4,28307.15,Intel HD Graphics 520
+Acer,Chromebook CB5-571-C1DZ,Intel Celeron Dual Core 3205U 1.5GHz,4,28307.15,Intel HD Graphics
+Lenovo,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,4,28385.2115,Intel HD Graphics 505
+Acer,Aspire ES1-572,Intel Core i3 6006U 2.0GHz,4,28527.93,Intel HD Graphics 520
+Acer,Aspire 3,Intel Pentium Quad Core N4200 1.1GHz,4,28662.7635,Intel HD Graphics 505
+HP,250 G6,Intel Core i3 6006U 2GHz,4,28772.365,Intel HD Graphics 520
+Acer,Aspire 3,Intel Core i3 7130U 2.7GHz,4,28937.95,Intel HD Graphics 620
+Lenovo,V110-15ISK (i3-6006U/4GB/1TB/Radeon,Intel Core i3 6006U 2GHz,4,29016.8,AMD Radeon R5 M430
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,4,29095.65,Intel HD Graphics 520
+HP,255 G6,AMD A6-Series 9220 2.5GHz,4,29095.65,AMD Radeon R4 Graphics
+Mediacom,SmartBook Edge,Intel Celeron Quad Core N3450 1.1GHz,4,29095.65,Intel HD Graphics 500
+Dell,Inspiron 3552,Intel Pentium Quad Core N3710 1.6GHz,4,29095.65,Intel HD Graphics
+Asus,X553SA-XX021T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,4,29095.65,Intel HD Graphics
+Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,4,29095.65,Intel HD Graphics
+Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,4,29095.65,Intel HD Graphics
+Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,4,29095.65,Intel HD Graphics
+Asus,VivoBook Flip,Intel Celeron Dual Core N3350 1.1GHz,4,29568.75,Intel HD Graphics 500
+Acer,Chromebook 14,Intel Celeron Dual Core 3855U 1.6GHz,4,29568.75,Intel HD Graphics 510
+Acer,CB5-132T-C9KK (N3160/4GB/32GB/Chrome,Intel Celeron Quad Core N3160 1.6GHz,4,29884.15,Intel HD Graphics 400
+Lenovo,IdeaPad 110-17ACL,AMD A4-Series 7210 2.2GHz,4,29884.15,AMD Radeon R3
+Dell,Inspiron 3552,Intel Celeron Dual Core N3050 1.6GHz,2,29884.15,Intel HD Graphics
+Dell,Inspiron 3552,Intel Celeron Dual Core N3050 1.6GHz,2,29884.15,Intel HD Graphics
+Dell,Inspiron 3552,Intel Celeron Dual Core N3050 1.6GHz,2,29884.15,Intel HD Graphics
+Acer,Aspire ES1-533,Intel Pentium Quad Core N4200 1.1GHz,4,29963,Intel HD Graphics 505
+Acer,Aspire 3,Intel Core i3 7100U 2.4GHz,4,30278.4,Intel HD Graphics 620
+Dell,Inspiron 3552,Intel Pentium Quad Core N3700 1.6GHz,4,31026.6865,Intel HD Graphics
+HP,250 G6,Intel Core i5 7200U 2.5GHz,4,31059.015,Intel HD Graphics 620
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,4,31145.75,AMD Radeon R5
+HP,250 G6,Intel Core i3 6006U 2GHz,4,31303.45,Intel HD Graphics 520
+HP,15-bw011nv (A6-9220/4GB/1TB/FHD/W10),AMD A6-Series 9220 2.5GHz,4,31382.3,AMD Radeon R4
+Lenovo,V110-15ISK (i5-6200U/4GB/500GB/No,Intel Core i5 6200U 2.3GHz,4,31382.3,Intel HD Graphics 520
+HP,255 G6,AMD A6-Series 9220 2.5GHz,4,31420.9365,AMD Radeon R4 Graphics
+Asus,Pro P2540UA-XO0198T,Intel Core i3 7100U 2.4GHz,4,31460.3615,Intel HD Graphics 620
+HP,250 G6,Intel Pentium Quad Core N3710 1.6GHz,4,31460.3615,Intel HD Graphics 405
+Asus,X541NA-GO121 (N4200/4GB/1TB/Linux),Intel Pentium Quad Core N4200 1.1GHz,4,31460.3615,Intel HD Graphics 505
+Lenovo,IdeaPad 320-15AST,AMD A6-Series 9220 2.5GHz,4,31461.15,AMD R4 Graphics
+Asus,X541NA-GO414T (N3350/8GB/1TB/W10),Intel Celeron Dual Core N3350 1.1GHz,8,31461.15,Intel HD Graphics 500
+Lenovo,IdeaPad 320-15AST,AMD A9-Series 9420 2.9GHz,4,31461.15,AMD Radeon 530
+HP,255 G6,AMD A6-Series 9220 2.5GHz,4,31461.15,AMD Radeon R4 Graphics
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,4,31540,AMD Radeon R5
+Asus,X555BP-XX180T (A9-9420/4GB/1TB/Radeon,AMD A9-Series 9420 3GHz,4,31776.55,AMD Radeon R5 M420
+Lenovo,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,Intel Core i3 6006U 2GHz,4,31815.975,Intel HD Graphics 520
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,4,32249.65,Intel HD Graphics 520
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,6,32249.65,AMD Radeon R5
+Acer,Aspire ES1-572,Intel Core i3 6006U 2GHz,4,32391.58,Intel HD Graphics 520
+Acer,Aspire 3,AMD A9-Series 9420 3GHz,4,35561.35,AMD Radeon R5
+Dell,Vostro 3568,Intel Core i3 6006U 2.0GHz,4,35931.945,AMD Radeon R5 M420X
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,8,36192.15,Intel HD Graphics 620
+Lenovo,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,8,36192.15,Nvidia GeForce 920MX 
+Lenovo,IdeaPad 110-15ISK,Intel Core i3 6100U 2.3GHz,8,36192.15,Intel HD Graphics 520
+Lenovo,IdeaPad 310-15ISK,Intel Core i3 6006U 2.0GHz,8,36192.15,Intel HD Graphics 520
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,6,36192.15,Intel HD Graphics 620
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,6,36192.15,Intel HD Graphics 620
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,6,36192.15,Intel HD Graphics 620
+Lenovo,ThinkPad 13,Intel Celeron Dual Core 3855U 1.6GHz,4,36263.115,Intel HD Graphics 510
+Lenovo,V310-15ISK (i5-6200U/4GB/1TB/FHD/No,Intel Core i5 6200U 2.3GHz,4,36456.2975,Intel HD Graphics 520
+Dell,Vostro 3568,Intel Core i3 6006U 2GHz,4,36665.25,AMD Radeon R5 M420
+Dell,Inspiron 3567,Intel Core i3 6006U 2.0GHz,4,36714.137,AMD Radeon R5 M430
+Asus,X751NV-TY001T (N4200/4GB/1TB/GeForce,Intel Pentium Quad Core N4200 1.1GHz,4,36744.1,Nvidia GeForce 920MX
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,4,36822.95,Intel HD Graphics 620
+Lenovo,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,4,36901.8,Intel HD Graphics 620
+Lenovo,320-15ISK (i3-6006U/4GB/1TB/GeForce,Intel Core i3 6006U 2GHz,4,36901.8,Nvidia GeForce 920MX 
+Asus,X505BP-BR019T (A9-9420/4GB/1TB/Radeon,AMD A9-Series 9420 3GHz,4,36980.65,AMD Radeon R5 M420
+HP,250 G6,Intel Core i3 6006U 2GHz,4,36980.65,Intel HD Graphics 520
+Acer,ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10),AMD A8-Series 7410 2.2GHz,8,36980.65,AMD Radeon R5
+HP,15-BS028nv (i3-6006U/4GB/1TB/Radeon,Intel Core i3 6006U 2GHz,4,36980.65,AMD Radeon 520
+Acer,Aspire 5,Intel Core i3 6006U 2GHz,4,36980.65,Nvidia GeForce GTX 940MX
+Lenovo,IdeaPad 110-15ISK,Intel Core i3 6006U 2.0GHz,4,36980.65,Intel HD Graphics 520
+Dell,Inspiron 3567,Intel Core i3 7100U 2.4GHz,8,36981.4385,Intel HD Graphics 620
+Asus,X751NV-TY001 (N4200/4GB/1TB/GeForce,Intel Pentium Quad Core N4200 1.1GHz,4,37086.309,Nvidia GeForce 920MX
+Lenovo,N23 (N3060/4GB/128GB/W10),Intel Celeron Dual Core N3060 1.6GHz,4,37453.75,Intel HD Graphics 400
+HP,250 G4,Intel Core i5 6200U 2.3GHz,4,37610.6615,Intel HD Graphics 520

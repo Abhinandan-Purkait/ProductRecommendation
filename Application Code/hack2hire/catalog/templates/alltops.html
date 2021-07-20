@@ -1,0 +1,359 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="CAAR">
+    <title>Dell Store - Best Gaming Laptops</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/jumbotron/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Favicons -->
+    <link rel='icon' href='/static/img/logo.png' type='image/x-icon' sizes="16x16" />
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        .card-header {
+            padding: 0px;
+        }
+
+        #mycard {
+            position: relative;
+            z-index: 10;
+        }
+
+        #mycard:hover {
+            transform: scale(1.025);
+            transition: 1s;
+            position: relative;
+            z-index: 10;
+        }
+
+        .bg-dark {
+            background-color: #007DB8 !important;
+        }
+
+        body::-webkit-scrollbar {
+            width: 0 !important
+        }
+
+        .float {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            border-radius: 50px;
+            text-align: center;
+        }
+
+        .my-float {
+            margin-top: 22px;
+        }
+
+        .modal-content {
+            border-radius: 20px;
+            outline: none;
+        }
+
+        fieldset,
+        h1 {
+            font-size: 1.5em;
+            margin: 10px;
+        }
+
+        .rating {
+            border: none;
+            float: left;
+            margin-left: 30%;
+        }
+
+        .rating>input {
+            display: none;
+        }
+
+        .rating>label:before {
+            margin: 5px;
+            font-size: 1.25em;
+            font-family: FontAwesome;
+            display: inline-block;
+            content: "\f005";
+        }
+
+        .rating>.half:before {
+            content: "\f089";
+            position: absolute;
+        }
+
+        .rating>label {
+            color: #ddd;
+            float: right;
+        }
+
+        .rating>input:checked~label,
+
+        .rating:not(:checked)>label:hover,
+
+        .rating:not(:checked)>label:hover~label {
+            color: #FFD700;
+        }
+
+        .rating>input:checked+label:hover,
+
+        .rating>input:checked~label:hover,
+        .rating>label:hover~input:checked~label,
+        .rating>input:checked~label:hover~label {
+            color: #FFED85;
+        }
+
+        .pagination {
+            text-align: center;
+            margin-top: 1em;
+        }
+
+        .pagination-current,
+        .pagination-total {
+            padding: 0.5em 0.8em;
+            border-radius: 2px;
+            color: #fff;
+            background-color: #007bff;
+        }
+
+        .pagination-total {
+            background-color: #B9B9B9;
+        }
+
+        .pagination-action {
+            margin: 0 0.1em;
+            display: inline-block;
+            padding: 0.5em 0.5em;
+            color: #B9B9B9;
+            font-size: 1.3em;
+        }
+
+        .pagination-of {
+            color: #B9B9B9;
+            padding: 0 1em;
+        }
+
+
+        .pagination-action:hover {
+            color: #3354AA;
+        }
+    </style>
+
+    <link href="jumbotron.css" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <a href="/store/"><img class="navbar-brand img-responsive" src="/static/img/logo_white.png" width="80px"
+                height="80px"></a>
+        <ul class="navbar-nav mr-auto navbar-toggler-right">
+            <li class="nav-item float-right">
+                <a class="nav-link" href="/laptops/" style="color: #FCFCFC;">Laptops</a>
+            </li>
+            <li class="nav-item float-right">
+                <a class="nav-link" href="/accessories/" style="color: #FCFCFC;">Accessories</a>
+            </li>
+            <li class="nav-item float-right">
+                <a class="nav-link" href="/analytics/" style="color: #FCFCFC;">Analytics</a>
+            </li>
+            <li class="nav-item float-right">
+                <a class="nav-link" href="#" style="color: #FCFCFC;" onclick="subForm();" id="cartButton">Cart
+                    <!--b
+            style="color: black;">[0]</b--></a>
+                <form method="POST" action="/cart/" id="hiddenForm" style="display: none;"
+                    enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <input type="text" id="clicked_prods" name="clicked_items" maxlength="50000" />
+                </form>
+            </li>
+        </ul>
+    </nav>
+    <a href="#" class="float" data-toggle="modal" data-target="#myModal">
+        <img src="/static/img/feed2.png" style="width:50px;height:50px;" />
+    </a>
+    <main role="main">
+
+        <div class="modal" id="myModal">
+            <div class="modal-dialog modal-md modal-dialog-centered">
+                <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Please rate our recommendation !</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <center>
+                            <form method="POST" action="/recommendation/" id="recommendationForm"
+                                enctype="multipart/form-data">
+                                {% csrf_token %}
+                                <textarea type="text" name="feedBack" id="feed" rows="5" cols="60"></textarea>
+                                <br />
+                                <fieldset class="rating">
+                                    <input type="radio" id="star5" name="rating" value="5" /><label class="full"
+                                        for="star5" title="Awesome - 5 stars"></label>
+                                    <input type="radio" id="star4half" name="rating" value="4.5" /><label class="half"
+                                        for="star4half" title="Pretty good - 4.5 stars"></label>
+                                    <input type="radio" id="star4" name="rating" value="4" /><label class="full"
+                                        for="star4" title="Pretty good - 4 stars"></label>
+                                    <input type="radio" id="star3half" name="rating" value="3.5" /><label class="half"
+                                        for="star3half" title="Meh - 3.5 stars"></label>
+                                    <input type="radio" id="star3" name="rating" value="3" /><label class="full"
+                                        for="star3" title="Meh - 3 stars"></label>
+                                    <input type="radio" id="star2half" name="rating" value="2.5" /><label class="half"
+                                        for="star2half" title="Kinda bad - 2.5 stars"></label>
+                                    <input type="radio" id="star2" name="rating" value="2" /><label class="full"
+                                        for="star2" title="Kinda bad - 2 stars"></label>
+                                    <input type="radio" id="star1half" name="rating" value="1.5" /><label class="half"
+                                        for="star1half" title="Meh - 1.5 stars"></label>
+                                    <input type="radio" id="star1" name="rating" value="1" /><label class="full"
+                                        for="star1" title="Sucks big time - 1 star"></label>
+                                    <input type="radio" id="starhalf" name="rating" value="0.5" /><label class="half"
+                                        for="starhalf" title="Sucks big time - 0.5 stars"></label>
+                                </fieldset>
+                        </center>
+                    </div>
+
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <input type="submit" class="btn btn-success" value="Submit" />
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="jumbotron"
+            style="margin-top: 80px;background-image:url('/static/img/xlarge.jfif');height:400px;background-size:cover;">
+            <div class="container">
+                <br /><br /><br /><br />
+                <h4 style="color: white;"><i>“We share a vision of a future that is better than today.”</i></h4>
+                <h4 style="color: white;">- Michael Dell</h4><br />
+            </div>
+        </div>
+
+        <div class="container-fluid" style="padding-left: 100px;padding-right: 100px;">
+            <!-- Example row of columns -->
+            <div class="container-fluid" style="text-align: center;margin: 0 auto;width: 100%;">
+                <div class="row">
+                    {% for laptops in list %}
+                    <div class="col-lg-3 col-sm-6 col-md-6 col-xs-3" id="myCard">
+                        <div class="text-center">
+                            <div class="card mb-4 shadow-sm">
+                                <div class="card-header">
+                                    <img src="/static/img/{{ laptops.image }}" class="card-img-top" alt="..."
+                                        style="height:250px;">
+                                </div>
+                                <div class="card-body" style="background-color: #FCFCFC;">
+                                    <h1 class="card-title name-card-title">{{ laptops.product }}</h1>
+                                    <h2 class="card-title pricing-card-title">₹ {{ laptops.numFormat }}</h2>
+                                    <ul class="list-unstyled mt-3 mb-4">
+                                        <li>
+                                            <p>
+                                                {{ laptops.cpu }} , {{ laptops.ram }} , {{ laptops.typename }} ,
+                                                {{ laptops.inches }} ,
+                                                {{ laptops.screenresolution }} , {{ laptops.memory }} ,
+                                                {{ laptops.gpu }} ,
+                                                {{ laptops.opsys }}
+                                            </p>
+                                        </li>
+                                    </ul>
+                                    <button type="button" class="btn btn-lg btn-block btn-primary"
+                                        onclick="clicker('{{ laptops.id }}',this)">Add to Cart</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+            </div>
+            <hr>
+
+        </div>
+        <div class="pagination" style="margin: auto;text-align: center;">
+            <center style="margin-left: 700px;">
+
+                {% if list.has_previous %}
+                <a class="pagination-action" href="?page=1">
+                    <i class="fa fa-angle-double-left" aria-hidden="true"></i>
+                </a>
+                <a class="pagination-action" href="?page={{ list.previous_page_number }}">
+                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                </a>
+                {% endif %}
+                <span class="pagination-current">{{ list.number }}</span>
+                <span class="pagination-of">of</span>
+                <span class="pagination-total">{{ list.paginator.num_pages }}</span>
+
+                {% if list.has_next %}
+                <a class="pagination-action" href="?page={{ list.next_page_number }}">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </a>
+                <a class="pagination-action" href="?page={{ list.paginator.num_pages }}">
+                    <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                </a>
+                {% endif %}
+            </center>
+        </div>
+
+    </main>
+
+    <footer class="container">
+        <center>
+            <p>© Team CAAR</p>
+        </center>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script>
+        var i = 0;
+
+        function subForm() {
+            var ele = document.getElementById('hiddenForm');
+            ele.submit();
+        }
+
+        function clicker(item, but) {
+            //alert(but.innerHTML);
+            //but.cl
+            but.className = 'btn btn-lg btn-outline-success'
+            but.innerHTML = 'Added to Cart'
+            but.disabled = true;
+            var ele = document.getElementById('clicked_prods');
+            ele.value = ele.value + " " + item;
+            var crt = document.getElementById('cartButton');
+            i = i + 1;
+            crt.innerHTML = "Cart[" + i + "]"
+        }
+    </script>
+</body>
+
+</html>

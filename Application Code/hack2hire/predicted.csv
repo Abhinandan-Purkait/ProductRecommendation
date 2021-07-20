@@ -1,0 +1,292 @@
+Id,Product,Cpu,Ram,Price,TypeName,Inches,ScreenResolution,Memory,Gpu,OpSys,Weight,Performance,Speed,Priority,Mouse,Keyboard,Headset
+81,Inspiron 3567,Intel Core i7 7500U 2.7GHz,8,59059,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M430,Linux,2.2kg,125,8,336,WM126 optical red,KB216 ,UC300 with Mic
+75,Vostro 3568,Intel Core i7 7500U 2.7GHz,4,58270,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M420,Windows 10,2.18kg,125,4,336,WM126 optical red,KB216 ,UC300 with Mic
+65,Inspiron 5567,Intel Core i7 7500U 2.7GHz,12,56225,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.3kg,125,12,336,WM118 optical,KB216 ,UC300 with Mic
+78,Inspiron 3567,Intel Core i7 7500U 2.7GHz,8,58743,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M430,Windows 10,2.2kg,125,8,336,WM126 optical red,KB216 ,UC300 with Mic
+97,Inspiron 3567,Intel Core i7 7500U 2.7GHz,8,63552,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R5 M430,Linux,2.3kg,125,8,336,MS116 optical,KB216 ,UC150 with Mic
+80,Inspiron 5567,Intel Core i7 7500U 2.7GHz,8,59058,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R7 M445,Windows 10,2.36kg,125,8,336,WM126 optical red,KB216 ,UC300 with Mic
+71,Inspiron 3576,Intel Core i7 8550U 1.8GHz,8,57960,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 520,Linux,2.14kg,134,8,336,WM126 optical red,KB216 ,UC300 with Mic
+85,Inspiron 3576,Intel Core i7 8550U 1.8GHz,8,60541,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 520,Windows 10,2.13kg,134,8,336,MS116 optical,WD4XO,UC150 with Mic
+108,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8,67416,Notebook,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10,2.02kg,134,8,336,MS111 optical,KB216 ,UC150 with Mic
+114,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8,68599,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 530,Windows 10,2.2kg,134,8,336,MS111 optical,KB216 ,UC150 with Mic
+88,Inspiron 5567,Intel Core i7 7500U 2.7GHz,8,61413,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R7 M445,Linux,2.33kg,125,8,336,MS116 optical,WD4XO,UC150 with Mic
+105,Inspiron 5379,Intel Core i7 8550U 1.8GHz,8,66155,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,1TB HDD,Intel UHD Graphics 620,Windows 10,1.62kg,134,8,339,MS111 optical,KB216 ,UC150 with Mic
+113,Inspiron 5379,Intel Core i7 8550U 1.8GHz,8,68521,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.62kg,134,8,339,MS111 optical,KB216 ,UC150 with Mic
+101,Inspiron 5579,Intel Core i7 8550U 1.8GHz,8,64578,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,1TB HDD,Intel UHD Graphics 620,Windows 10,2.08kg,134,8,339,MS116 optical,KB216 ,UC150 with Mic
+117,Inspiron 5577,Intel Core i5 7300HQ 2.5GHz,8,69309,Gaming,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.56kg,99,8,341,MS111 optical,KB216 ,UC150 with Mic
+58,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8,52277,Ultrabook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon 530,Windows 10,1.9kg,105,8,341,WM118 optical,KB216 ,UC300 with Mic
+118,Inspiron 7559,Intel Core i7 6700HQ 2.6GHz,16,69309,Gaming,15.6,Full HD 1920x1080,1TB HDD,Nvidia GeForce GTX 960,Windows 10,2.59kg,120,16,341,MS111 optical,KB216 ,UC150 with Mic
+102,Inspiron 5577,Intel Core i5 7300HQ 2.5GHz,8,64578,Gaming,15.6,Full HD 1920x1080,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.56kg,99,8,341,MS116 optical,KB216 ,UC150 with Mic
+64,Vostro 3568,Intel Core i5 7200U 2.5GHz,4,55830,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.18kg,96,4,343,WM118 optical,KB216 ,UC300 with Mic
+68,Vostro 5568,Intel Core i5 7200U 2.5GHz,8,57245,Notebook,15.6,Full HD 1920x1080,1TB HDD,Intel HD Graphics 620,Linux,1.98kg,96,8,343,WM126 optical red,KB216 ,UC300 with Mic
+61,Inspiron 3576,Intel Core i5 8250U 1.6GHz,8,53409,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 520,Linux,2.2kg,105,8,343,WM118 optical,KB216 ,UC300 with Mic
+60,Inspiron 3576,Intel Core i5 8250U 1.6GHz,8,53223,Notebook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon 520,Windows 10,2.2kg,105,8,343,WM118 optical,KB216 ,UC300 with Mic
+48,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8,50369,Notebook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon R7 M445,Windows 10,2.36kg,96,8,343,WM118 optical,KB216 ,UC300 with Mic
+49,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8,50384,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R7 M445,Windows 10,2.36kg,96,8,343,WM118 optical,KB216 ,UC300 with Mic
+50,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4,50385,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M430,Windows 10,2.3kg,96,4,343,WM118 optical,KB216 ,UC300 with Mic
+51,Inspiron 3576,Intel Core i5 8250U 1.6GHz,8,51015,Notebook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon 520,Linux,2.2kg,105,8,343,WM118 optical,KB216 ,UC300 with Mic
+53,Inspiron 3567,Intel Core i5 7200U 2.5GHz,12,51173,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.25kg,96,12,343,WM118 optical,KB216 ,UC300 with Mic
+62,Vostro 3568,Intel Core i5 7200U 2.5GHz,4,54011,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R5 M420,Windows 10,2.18kg,96,4,343,WM118 optical,KB216 ,UC300 with Mic
+66,Vostro 3568,Intel Core i5 7200U 2.5GHz,8,56298,Notebook,15.6,1366x768,128GB SSD,Intel HD Graphics 620,Windows 10,2.18kg,96,8,343,WM118 optical,KB216 ,UC300 with Mic
+55,Vostro 3568,Intel Core i5 7200U 2.5GHz,4,51804,Notebook,15.6,Full HD 1920x1080,1TB HDD,Intel HD Graphics 620,Windows 10,2.18kg,96,4,343,WM118 optical,KB216 ,UC300 with Mic
+54,Inspiron 5368,Intel Core i5 6200U 2.3GHz,8,51173,Notebook,13.3,Full HD / Touchscreen 1920x1080,1TB HDD,Intel HD Graphics 520,Windows 10,1.62kg,90,8,343,WM118 optical,KB216 ,UC300 with Mic
+84,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8,59847,Notebook,15.6,Full HD 1920x1080,2TB HDD,AMD Radeon 530,Windows 10,2.02kg,105,8,343,WM126 optical red,KB216 ,UC300 with Mic
+82,Vostro 3568,Intel Core i5 7200U 2.5GHz,8,59137,Notebook,15.6,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,2.18kg,96,8,343,WM126 optical red,KB216 ,UC300 with Mic
+67,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8,56693,Notebook,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.2kg,105,8,343,WM126 optical red,KB216 ,UC300 with Mic
+79,Inspiron 5570,Intel Core i5 8250U 1.6GHz,4,59058,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 530,Windows 10,2.2kg,105,4,343,WM126 optical red,KB216 ,UC300 with Mic
+69,Inspiron 3576,Intel Core i5 8250U 1.6GHz,8,57402,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 520,Windows 10,2.13kg,105,8,343,WM126 optical red,KB216 ,UC300 with Mic
+56,Inspiron 5379,Intel Core i5 8250U 1.6GHz,8,51962,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,1TB HDD,Intel UHD Graphics 620,Windows 10,1.55kg,105,8,346,WM118 optical,KB216 ,UC300 with Mic
+107,Latitude 3380,Intel Core i3 6006U 2GHz,4,66943,Notebook,13.3,1366x768,500GB HDD,Intel HD Graphics 520,Windows 10,1.65kg,72,4,347,MS111 optical,KB216 ,UC150 with Mic
+73,Vostro 3559,Intel Core i5 6200U 2.3GHz,4,58112,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 520,Windows 7,2.24kg,90,4,347,WM126 optical red,KB216 ,UC300 with Mic
+86,Vostro 3559,Intel Core i5 6200U 2.3GHz,4,60647,Notebook,15.6,1366x768,500GB HDD,AMD Radeon R5 M315,Windows 7,2.24kg,90,4,347,MS116 optical,WD4XO,UC150 with Mic
+83,Latitude 3480,Intel Core i5 6200U 2.3GHz,4,59531,Notebook,14.0,1366x768,500GB HDD,Intel HD Graphics 520,Windows 10,1.76kg,90,4,347,WM126 optical red,KB216 ,UC300 with Mic
+70,Latitude 3580,Intel Core i5 6200U 2.3GHz,4,57552,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 520,Windows 10,1.95kg,90,4,347,WM126 optical red,KB216 ,UC300 with Mic
+99,Inspiron 5370,Intel Core i5 8250U 1.6GHz,4,64526,Ultrabook,13.3,IPS Panel Full HD 1920x1080,256GB SSD,AMD Radeon 530,Windows 10,1.4kg,105,4,349,MS116 optical,KB216 ,UC150 with Mic
+116,Vostro 5471,Intel Core i5 8250U 1.6GHz,8,69309,Ultrabook,14.0,Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.7kg,105,8,349,MS111 optical,KB216 ,UC150 with Mic
+57,Insprion 5767,Intel Core i3 6006U 2.0GHz,4,51962,Notebook,17.3,1600x900,1TB HDD,AMD Radeon R7 M445,Windows 10,2.36kg,73,4,350,WM118 optical,KB216 ,UC300 with Mic
+63,Latitude 3380,Intel Core i3 6006U 2GHz,4,54327,Notebook,13.3,1366x768,128GB SSD,Intel HD Graphics 520,Windows 10,1.65kg,72,4,350,WM118 optical,KB216 ,UC300 with Mic
+59,Vostro 3568,Intel Core i3 6006U 2GHz,8,52435,Notebook,15.6,1366x768,256GB SSD,Intel HD Graphics 520,Windows 10,2kg,72,8,350,WM118 optical,KB216 ,UC300 with Mic
+77,Latitude 3180,Intel Pentium Quad Core N4200 1.1GHz,4,58664,Netbook,11.6,1366x768,128GB SSD,Intel HD Graphics 505,Windows 10,1.63kg,50,4,350,WM126 optical red,KB216 ,UC300 with Mic
+76,Latitude E5470,Intel Core i3 6100U 2.3GHz,8,58349,Notebook,14.0,1366x768,128GB SSD,Intel HD Graphics 520,Windows 10,1.79kg,75,8,350,WM126 optical red,KB216 ,UC300 with Mic
+74,Vostro 5568,Intel Core i3 6006U 2GHz,8,58270,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M420X,Windows 10,2kg,72,8,350,WM126 optical red,KB216 ,UC300 with Mic
+72,Vostro 5468,Intel Core i3 6006U 2GHz,4,58023,Notebook,14.0,Full HD 1920x1080,128GB SSD,Intel HD Graphics 520,Windows 10,1.6kg,72,4,350,WM126 optical red,KB216 ,UC300 with Mic
+92,Inspiron 5568,Intel Core i3 6100U 2.3GHz,4,62763,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,1TB HDD,Intel HD Graphics 520,Windows 10,2.08kg,75,4,350,MS116 optical,WD4XO,UC150 with Mic
+87,Inspiron 5570,Intel Core i5 8250U 1.6GHz,4,61187,Notebook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon 530,Windows 10,2.2kg,105,4,351,MS116 optical,WD4XO,UC150 with Mic
+89,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8,61818,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R7 M445,Windows 10,2.5kg,96,8,351,MS116 optical,WD4XO,UC150 with Mic
+90,Vostro 3568,Intel Core i5 7200U 2.5GHz,8,62276,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M420,Windows 10,2.18kg,96,8,351,MS116 optical,WD4XO,UC150 with Mic
+91,Vostro 5568,Intel Core i5 7200U 2.5GHz,8,62685,Notebook,15.6,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,2.18kg,96,8,351,MS116 optical,WD4XO,UC150 with Mic
+93,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8,62875,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 530,Windows 10,2.2kg,105,8,351,MS116 optical,WD4XO,UC150 with Mic
+96,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8,63080,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 530,Windows 10,2.2kg,105,8,351,MS116 optical,WD4XO,UC150 with Mic
+98,Latitude 3580,Intel Core i5 7200U 2.5GHz,8,63868,Notebook,15.6,1366x768,128GB SSD,Intel HD Graphics 620,Windows 10,1.95kg,96,8,351,MS116 optical,KB216 ,UC150 with Mic
+115,Latitude 5480,Intel Core i5 7200U 2.5GHz,4,68993,Notebook,14.0,1366x768,500GB HDD,Intel HD Graphics 620,Windows 10,1.6kg,96,4,351,MS111 optical,KB216 ,UC150 with Mic
+103,Latitude 5580,Intel Core i5 7200U 2.5GHz,4,65051,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 620,Windows 10,1.9kg,96,4,351,MS111 optical,KB216 ,UC150 with Mic
+104,Vostro 5568,Intel Core i5 7200U 2.5GHz,8,65918,Notebook,15.6,Full HD 1920x1080,1TB HDD,Intel HD Graphics 620,Windows 10,2.18kg,96,8,351,MS111 optical,KB216 ,UC150 with Mic
+106,Inspiron 5570,Intel Core i5 8250U 1.6GHz,8,66549,Notebook,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.33kg,105,8,351,MS111 optical,KB216 ,UC150 with Mic
+109,Vostro 5468,Intel Core i5 7200U 2.5GHz,8,67732,Notebook,14.0,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.6kg,96,8,351,MS111 optical,KB216 ,UC150 with Mic
+110,Inspiron 5567,Intel Core i7 7500U 2.7GHz,16,67732,Notebook,15.6,Full HD / Touchscreen 1920x1080,1TB HDD,AMD Radeon R7 M445,Windows 10,2.3kg,125,16,351,MS111 optical,KB216 ,UC150 with Mic
+111,Inspiron 5767,Intel Core i7 7500U 2.7GHz,8,68205,Notebook,17.3,Full HD 1920x1080,1TB HDD,AMD Radeon R7 M445,Linux,2.83kg,125,8,351,MS111 optical,KB216 ,UC150 with Mic
+112,Latitude 5580,Intel Core i5 7300U 2.6GHz,4,68520,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 620,Linux,1.93kg,100,4,351,MS111 optical,KB216 ,UC150 with Mic
+52,Inspiron 5378,Intel Core i3 7100U 2.4GHz,4,51173,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,1TB HDD,Intel HD Graphics 620,Windows 10,1.71kg,76,4,353,WM118 optical,KB216 ,UC300 with Mic
+94,Inspiron 5368,Intel Core i7 6500U 2.5GHz,8,62923,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 520,Windows 10,1.62kg,117,8,354,MS116 optical,WD4XO,UC150 with Mic
+95,Inspiron 5579,Intel Core i5 8250U 1.6GHz,8,63001,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,2.67kg,105,8,354,MS116 optical,WD4XO,UC150 with Mic
+100,Inspiron 5379,Intel Core i5 8250U 1.6GHz,8,64578,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.62kg,105,8,354,MS116 optical,KB216 ,UC150 with Mic
+247,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,16,145478,Gaming,15.6,IPS Panel 4K Ultra HD 3840x2160,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.65kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+177,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,8,91387,Gaming,15.6,IPS Panel Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.62kg,130,8,441,MS111 optical,KB216 ,UC300 with Mic
+184,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8,94541,Gaming,15.6,Full HD 1920x1080,1TB HDD,Nvidia GeForce GTX 1050Ti,Windows 10,2.62kg,130,8,441,MS111 optical,KB216 ,UC300 with Mic
+190,Inspiron 5577,Intel Core i7 7700HQ 2.8GHz,16,98504,Gaming,15.6,Full HD 1920x1080,512GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.56kg,130,16,441,WM118 optical,KB216 ,UC300 with Mic
+200,Alienware 15,Intel Core i7 6700HQ 2.6GHz,16,104791,Gaming,15.6,4K Ultra HD 3840x2160,256GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows 10,3.21kg,120,16,441,MS116 optical,WD4XO,UC150 with Mic
+201,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,16,106368,Gaming,15.6,IPS Panel Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.65kg,130,16,441,MS116 optical,WD4XO,UC150 with Mic
+202,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,16,106368,Gaming,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.6kg,130,16,441,MS116 optical,WD4XO,UC150 with Mic
+165,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8,86656,Gaming,15.6,Full HD 1920x1080,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.62kg,130,8,441,MS111 optical,KB216 ,UC150 with Mic
+164,Inspiron 7559,Intel Core i7 6700HQ 2.6GHz,16,86656,Gaming,15.6,IPS Panel Touchscreen / 4K Ultra HD 3840x2160,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.72kg,120,16,441,MS111 optical,KB216 ,UC150 with Mic
+219,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,16,116619,Gaming,15.6,Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.62kg,130,16,441,MS116 optical,WD4XO,UC150 with Mic
+220,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8,118117,Gaming,15.6,4K Ultra HD 3840x2160,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.62kg,130,8,441,MS116 optical,WD4XO,UC150 with Mic
+147,Inspiron 7577,Intel Core i5 7300HQ 2.5GHz,8,78771,Gaming,15.6,Full HD 1920x1080,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.65kg,99,8,441,WM118 optical,DE-KB-2234,UC300 with Mic
+290,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32,282976,Gaming,17.3,IPS Panel Full HD 1920x1080,1TB SSD +  1TB HDD,Nvidia GeForce GTX 1070M,Windows 10,4.42kg,130,32,441,MS111 optical,KB216 ,UC300 with Mic
+221,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,16,118196,Gaming,15.6,IPS Panel Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.65kg,130,16,441,MS116 optical,WD4XO,UC150 with Mic
+144,Inspiron 7567,Intel Core i5 7300HQ 2.5GHz,8,77667,Gaming,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.62kg,99,8,441,WM118 optical,DE-KB-2234,UC300 with Mic
+234,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,16,132389,Gaming,15.6,4K Ultra HD 3840x2160,512GB SSD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.62kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+129,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8,73251,Gaming,15.6,Full HD 1920x1080,1TB HDD,Nvidia GeForce GTX 1050Ti,Linux,2.62kg,130,8,441,MS111 optical,KB216 ,UC300 with Mic
+123,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,8,70886,Gaming,15.6,Full HD 1920x1080,1.0TB Hybrid,Nvidia GeForce GTX 1050,Windows 10,2.62kg,130,8,441,MS111 optical,KB216 ,UC300 with Mic
+155,Inspiron 5577,Intel Core i7 7700HQ 2.8GHz,8,83619,Gaming,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.56kg,130,8,441,MS116 optical,WD4XO,UC150 with Mic
+134,Inspiron 7567,Intel Core i5 7300HQ 2.5GHz,8,74828,Gaming,15.6,Full HD 1920x1080,1.0TB Hybrid,Nvidia GeForce GTX 1050,Windows 10,2.65kg,99,8,441,MS111 optical,KB216 ,UC300 with Mic
+291,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32,288543,Gaming,17.3,4K Ultra HD 3840x2160,1TB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.36kg,130,32,441,MS111 optical,KB216 ,UC300 with Mic
+183,Inspiron 7577,Intel Core i5 7300HQ 2.5GHz,8,94225,Gaming,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce GTX 1060,Windows 10,2.65kg,99,8,441,MS111 optical,KB216 ,UC300 with Mic
+280,Alienware 17,Intel Core i7 6700HQ 2.6GHz,32,220780,Gaming,17.3,Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42kg,120,32,441,MS111 optical,KB216 ,UC150 with Mic
+286,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32,242297,Gaming,17.3,IPS Panel Full HD 1920x1080,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42kg,130,32,441,MS111 optical,KB216 ,UC150 with Mic
+272,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16,197520,Gaming,17.3,IPS Panel Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,4.36kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+270,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16,193682,Gaming,17.3,IPS Panel Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,4.42kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+282,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16,226219,Gaming,15.6,IPS Panel 4K Ultra HD 3840x2160,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+275,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16,212816,Gaming,17.3,IPS Panel Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+281,Alienware 15,Intel Core i7 7820HK 2.9GHz,16,221864,Gaming,15.6,Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,3.49kg,131,16,441,MS111 optical,KB216 ,UC150 with Mic
+277,Alienware 17,Intel Core i7 6820HK 2.7GHz,16,217468,Gaming,17.3,2560x1440,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1080,Windows 10,4.36kg,121,16,441,MS111 optical,KB216 ,UC150 with Mic
+278,Alienware 15,Intel Core i7 7700HQ 2.8GHz,16,218779,Gaming,15.6,Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,3.21kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+261,Alienware 15,Intel Core i5 7300HQ 2.5GHz,16,161721,Gaming,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,3.21kg,99,16,441,MS111 optical,KB216 ,UC150 with Mic
+284,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16,237556,Gaming,17.3,IPS Panel Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+289,Alienware 17,Intel Core i7 7700HQ 2.8GHz,16,248692,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.36kg,130,16,441,MS111 optical,KB216 ,UC150 with Mic
+279,Alienware 17,Intel Core i7 7820HK 2.9GHz,16,220701,Gaming,17.3,IPS Panel 2560x1440,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42kg,131,16,441,MS111 optical,KB216 ,UC150 with Mic
+287,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32,248170,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42kg,130,32,441,MS111 optical,KB216 ,UC150 with Mic
+288,Alienware 17,Intel Core i7 7700HQ 2.8GHz,32,248298,Gaming,17.3,IPS Panel Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42kg,130,32,441,MS111 optical,KB216 ,UC150 with Mic
+20,Inspiron 3567,Intel Core i3 7100U 2.4GHz,8,36981,Notebook,15.6,Touchscreen 1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.3kg,76,8,443,WM126 optical red,DE-KB-2234,UC300 with Mic
+44,Inspiron 3567,Intel Core i7 7500U 2.7GHz,8,47302,Notebook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon R5 M430,Linux,2.2kg,125,8,443,MS111 optical,WD4XO,UC150 with Mic
+43,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4,47231,Notebook,15.6,1366x768,500GB HDD,AMD Radeon R5 M430,Windows 10,2.25kg,96,4,443,MS111 optical,WD4XO,UC150 with Mic
+42,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4,47223,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M430,Linux,2.3kg,96,4,443,MS111 optical,WD4XO,UC150 with Mic
+41,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8,46483,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R7 M445,Linux,2.32kg,96,8,443,MS111 optical,WD4XO,UC150 with Mic
+36,Inspiron 3567,Intel Core i5 7200U 2.5GHz,8,44550,Notebook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon R5 M430,Windows 10,2.24kg,96,8,443,MS111 optical,WD4XO,UC150 with Mic
+28,Vostro 3568,Intel Core i5 7200U 2.5GHz,4,41148,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 520,Linux,2.18kg,96,4,443,MS116 optical,WD4XO,UC150 with Mic
+29,Latitude E5570,Intel Core i5 6200U 2.3GHz,4,41288,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 520,Linux,2.09kg,90,4,443,MS116 optical,WD4XO,UC150 with Mic
+30,Inspiron 3567,Intel Core i5 7200U 2.5GHz,8,42575,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.14kg,96,8,443,MS116 optical,WD4XO,UC150 with Mic
+33,Inspiron 3567,Intel Core i5 7200U 2.5GHz,8,43948,Notebook,15.6,Touchscreen 1366x768,2TB HDD,Intel HD Graphics 620,Windows 10,2.36kg,96,8,443,MS111 optical,WD4XO,UC150 with Mic
+38,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4,46127,Notebook,15.6,Full HD 1920x1080,500GB HDD,AMD Radeon R5 M430,Windows 10,2.3kg,96,4,443,MS111 optical,WD4XO,UC150 with Mic
+35,Inspiron 3567,Intel Core i5 7200U 2.5GHz,4,44077,Notebook,15.6,Full HD 1920x1080,1TB HDD,Intel HD Graphics,Windows 10,2.25kg,96,4,443,MS111 optical,WD4XO,UC150 with Mic
+37,Vostro 3568,Intel Core i5 7200U 2.5GHz,4,44865,Notebook,15.6,Full HD 1920x1080,128GB SSD,AMD Radeon R5 M420,Linux,2.18kg,96,4,443,MS111 optical,WD4XO,UC150 with Mic
+16,Inspiron 3567,Intel Core i3 7100U 2.4GHz,8,36192,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.3kg,76,8,443,WM118 optical,KB216 ,UC300 with Mic
+276,Precision M5520,Intel Core i7 7700HQ 2.8GHz,8,213841,Workstation,15.6,4K Ultra HD / Touchscreen 3840x2160,256GB SSD,Nvidia Quadro M1200,Windows 10,1.78kg,130,8,446,MS111 optical,KB216 ,UC150 with Mic
+203,Precision 3510,Intel Core i5 6440HQ 2.6GHz,8,107945,Workstation,15.6,Full HD 1920x1080,500GB HDD,AMD FirePro W5130M,Windows 10,2.23kg,94,8,446,MS116 optical,WD4XO,UC150 with Mic
+283,Precision 7720,Intel Core i7 7820HQ 2.9GHz,16,227471,Workstation,17.3,Full HD 1920x1080,256GB SSD,Nvidia Quadro M1200,Windows 10,3.42kg,132,16,446,MS111 optical,KB216 ,UC150 with Mic
+241,Precision 3520,Intel Core i7 7700HQ 2.8GHz,8,140195,Workstation,15.6,Full HD 1920x1080,1TB HDD,Nvidia Quadro M620,Windows 10,2.23kg,130,8,446,MS111 optical,KB216 ,UC150 with Mic
+285,Precision 7520,Intel Xeon E3-1505M V6 3GHz,16,240886,Workstation,15.6,4K Ultra HD 3840x2160,256GB SSD +  1TB HDD,Nvidia Quadro M1200,Windows 10,2.8kg,62,16,446,MS111 optical,KB216 ,UC150 with Mic
+269,Precision M5520,Intel Core i7 7700HQ 2.8GHz,8,189870,Workstation,15.6,Full HD 1920x1080,256GB SSD,Nvidia Quadro M1200,Windows 10,1.78kg,130,8,446,MS111 optical,KB216 ,UC150 with Mic
+256,Precision 3520,Intel Core i7 6820HQ 2.7GHz,16,155728,Workstation,15.6,IPS Panel Full HD 1920x1080,256GB SSD,Nvidia Quadro M620,Windows 10,2.17kg,122,16,446,MS111 optical,KB216 ,UC150 with Mic
+257,Precision 3520,Intel Xeon E3-1505M V6 3GHz,8,157148,Workstation,15.6,Full HD 1920x1080,64GB Flash Storage +  1TB HDD,Nvidia Quadro M620,Windows 10,2.23kg,62,8,446,MS111 optical,KB216 ,UC150 with Mic
+262,Precision 5520,Intel Core i7 6820HQ 2.7GHz,8,168344,Workstation,15.6,IPS Panel Full HD 1920x1080,256GB SSD,Nvidia Quadro M1200,Windows 10,2kg,122,8,446,MS111 optical,KB216 ,UC150 with Mic
+266,Precision 3520,Intel Core i7 6820HQ 2.7GHz,16,184351,Workstation,15.6,IPS Panel Full HD 1920x1080,512GB SSD,Nvidia Quadro M620,Windows 10,2.17kg,122,16,446,MS111 optical,KB216 ,UC150 with Mic
+239,Precision 3520,Intel Core i7 7700HQ 2.8GHz,8,139012,Workstation,15.6,Full HD / Touchscreen 1920x1080,256GB SSD,Nvidia Quadro M620,Windows 10,2.06kg,130,8,446,MS111 optical,KB216 ,UC150 with Mic
+166,XPS 13,Intel Core i5 6300U 2.4GHz,8,86656,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,256GB SSD,Intel HD Graphics 520,Linux,1.23kg,93,8,449,MS111 optical,KB216 ,UC150 with Mic
+176,Latitude 5490,Intel Core i5 8250U 1.6GHz,8,90598,Ultrabook,14.0,Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.6kg,105,8,449,MS111 optical,KB216 ,UC300 with Mic
+192,XPS 13,Intel Core i7 6500U 2.5GHz,8,99981,Ultrabook,13.3,Quad HD+ 3200x1800,256GB SSD,Intel HD Graphics 520,Windows 10,1.3kg,117,8,449,WM118 optical,KB216 ,UC300 with Mic
+216,XPS 13,Intel Core i7 7500U 2.7GHz,8,114963,Ultrabook,13.3,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.29kg,125,8,449,MS116 optical,WD4XO,UC150 with Mic
+215,XPS 13,Intel Core i5 8250U 1.6GHz,8,114324,Ultrabook,13.3,Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.2kg,105,8,449,MS116 optical,WD4XO,UC150 with Mic
+154,Inspiron 7570,Intel Core i5 8250U 1.6GHz,8,82713,Ultrabook,15.6,IPS Panel Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce 940MX,Windows 10,1.9kg,105,8,449,MS116 optical,WD4XO,UC150 with Mic
+211,Latitude E5270,Intel Core i5 6200U 2.3GHz,8,111422,Ultrabook,12.5,1366x768,256GB SSD,Intel HD Graphics 520,Windows 7,1.5kg,90,8,449,MS116 optical,WD4XO,UC150 with Mic
+214,XPS 13,Intel Core i7 8550U 1.8GHz,8,114253,Ultrabook,13.3,Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.2kg,134,8,449,MS116 optical,WD4XO,UC150 with Mic
+210,XPS 13,Intel Core i7 8550U 1.8GHz,8,110311,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,256GB SSD,Intel UHD Graphics 620,Windows 10,1.2kg,134,8,449,MS116 optical,WD4XO,UC150 with Mic
+209,XPS 13,Intel Core i5 8250U 1.6GHz,8,110311,Ultrabook,13.3,Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.23kg,105,8,449,MS116 optical,WD4XO,UC150 with Mic
+207,XPS 13,Intel Core i7 7560U 2.4GHz,8,108734,Ultrabook,13.3,Full HD 1920x1080,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.23kg,126,8,449,MS116 optical,WD4XO,UC150 with Mic
+161,Latitude 5590,Intel Core i5 8250U 1.6GHz,8,86432,Ultrabook,15.6,IPS Panel Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.88kg,105,8,449,MS111 optical,KB216 ,UC150 with Mic
+206,XPS 13,Intel Core i7 7560U 2.4GHz,8,108734,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.23kg,126,8,449,MS116 optical,WD4XO,UC150 with Mic
+163,Latitude 5480,Intel Core i7 7600U 2.8GHz,8,86656,Ultrabook,14.0,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Linux,1.6kg,127,8,449,MS111 optical,KB216 ,UC150 with Mic
+196,Latitude 5590,Intel Core i7 8650U 1.9GHz,8,102347,Ultrabook,15.6,Full HD 1920x1080,256GB SSD +  256GB SSD,Intel UHD Graphics 620,Windows 10,1.88kg,135,8,449,MS116 optical,WD4XO,UC150 with Mic
+172,Latitude E5270,Intel Core i3 6100U 2.3GHz,4,89506,Ultrabook,12.5,1366x768,500GB HDD,Intel HD Graphics 520,Windows 7,1.5kg,75,4,449,MS111 optical,KB216 ,UC150 with Mic
+217,Latitude 7280,Intel Core i5 7200U 2.5GHz,8,116082,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics,Windows 10,1.36kg,96,8,449,MS116 optical,WD4XO,UC150 with Mic
+248,Latitude 7280,Intel Core i7 7600U 2.8GHz,16,146582,Ultrabook,12.5,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.18kg,127,16,449,MS111 optical,KB216 ,UC150 with Mic
+222,XPS 13,Intel Core i5 7200U 2.5GHz,8,118196,Ultrabook,13.3,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.29kg,96,8,449,MS116 optical,WD4XO,UC150 with Mic
+249,XPS 13,Intel Core i7 8550U 1.8GHz,16,147370,Ultrabook,13.3,Touchscreen / Quad HD+ 3200x1800,512GB SSD,Intel UHD Graphics 620,Windows 10,1.2kg,134,16,449,MS111 optical,KB216 ,UC150 with Mic
+250,XPS 13,Intel Core i5 8250U 1.6GHz,8,147370,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,256GB SSD,Intel UHD Graphics 620,Windows 10,1.23kg,105,8,449,MS111 optical,KB216 ,UC150 with Mic
+254,XPS 13,Intel Core i7 8550U 1.8GHz,8,153678,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,256GB SSD,Intel UHD Graphics 620,Windows 10,1.21kg,134,8,449,MS111 optical,KB216 ,UC150 with Mic
+255,Latitude E7470,Intel Core i7 6600U 2.6GHz,8,154780,Ultrabook,14.0,Touchscreen 2560x1440,256GB SSD,Intel HD Graphics 520,Windows 10,1.5kg,119,8,449,MS111 optical,KB216 ,UC150 with Mic
+263,XPS 13,Intel Core i7 7660U 2.5GHz,16,176624,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,512GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.29kg,128,16,449,MS111 optical,KB216 ,UC150 with Mic
+265,XPS 13,Intel Core i7 7500U 2.7GHz,16,177727,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,1TB SSD,Intel HD Graphics 620,Windows 10,1.2kg,125,16,449,MS111 optical,KB216 ,UC150 with Mic
+271,XPS 13,Intel Core i7 8550U 1.8GHz,16,197046,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,1TB SSD,Intel UHD Graphics 620,Windows 10,1.21kg,134,16,449,MS111 optical,KB216 ,UC150 with Mic
+246,Latitude 7390,Intel Core i5 8250U 1.6GHz,8,145229,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.42kg,105,8,449,MS111 optical,KB216 ,UC150 with Mic
+240,Latitude 7480,Intel Core i7 7600U 2.8GHz,8,139958,Ultrabook,14.0,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.36kg,127,8,449,MS111 optical,KB216 ,UC150 with Mic
+237,Latitude E7270,Intel Core i5 6300U 2.4GHz,8,135099,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 520,Windows 7,1.26kg,93,8,449,MS111 optical,KB216 ,UC150 with Mic
+126,XPS 13,Intel Core i5 7200U 2.5GHz,8,70886,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,128GB SSD,Intel HD Graphics 620,Windows 10,1.29kg,96,8,449,MS111 optical,KB216 ,UC300 with Mic
+236,Latitude 7280,Intel Core i7 7600U 2.8GHz,8,133256,Ultrabook,12.5,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.6kg,127,8,449,MS111 optical,KB216 ,UC150 with Mic
+235,Latitude 7480,Intel Core i7 7600U 2.8GHz,8,132468,Ultrabook,14.0,Full HD 1920x1080,512GB SSD,Intel HD Graphics,Windows 10,1.36kg,127,8,449,MS111 optical,KB216 ,UC150 with Mic
+130,Inspiron 5370,Intel Core i7 8550U 1.8GHz,8,73478,Ultrabook,13.3,IPS Panel Full HD 1920x1080,256GB SSD,AMD Radeon 530,Windows 10,1.4kg,134,8,449,MS111 optical,KB216 ,UC300 with Mic
+274,XPS 13,Intel Core i7 7500U 2.7GHz,16,211318,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,512GB SSD,Intel HD Graphics 620,Windows 10,1.2kg,125,16,449,MS111 optical,KB216 ,UC150 with Mic
+231,XPS 13,Intel Core i7 8550U 1.8GHz,8,130023,Ultrabook,13.3,IPS Panel Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.21kg,134,8,449,MS111 optical,KB216 ,UC150 with Mic
+133,Vostro 5370,Intel Core i5 8250U 1.6GHz,8,74828,Ultrabook,13.3,Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.41kg,105,8,449,MS111 optical,KB216 ,UC300 with Mic
+135,Inspiron 5370,Intel Core i7 8550U 1.8GHz,8,75301,Ultrabook,13.3,IPS Panel Full HD 1920x1080,256GB SSD,AMD Radeon 530,Windows 10,1.4kg,134,8,449,WM118 optical,KB216 ,UC300 with Mic
+178,Latitude E5270,Intel Core i3 6100U 2.3GHz,4,92015,Ultrabook,12.5,1366x768,128GB SSD,Intel HD Graphics 520,Windows 7,1.5kg,75,4,449,MS111 optical,KB216 ,UC300 with Mic
+229,XPS 13,Intel Core i5 8250U 1.6GHz,8,128446,Ultrabook,13.3,IPS Panel Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.21kg,105,8,449,MS111 optical,KB216 ,UC150 with Mic
+228,XPS 13,Intel Core i5 7200U 2.5GHz,8,128052,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,256GB SSD,Intel HD Graphics 620,Windows 10,1.29kg,96,8,449,MS111 optical,KB216 ,UC150 with Mic
+227,Latitude 5590,Intel Core i7 8650U 1.9GHz,16,126787,Ultrabook,15.6,Full HD 1920x1080,512GB SSD +  256GB SSD,Intel UHD Graphics 620,Windows 10,1.88kg,135,16,449,MS111 optical,KB216 ,UC150 with Mic
+140,XPS 13,Intel Core i5 8250U 1.6GHz,8,77194,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,128GB SSD,Intel UHD Graphics 620,Windows 10,1.22kg,105,8,449,WM118 optical,DE-KB-2234,UC300 with Mic
+226,XPS 13,Intel Core i5 8250U 1.6GHz,8,126081,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,128GB SSD,Intel UHD Graphics 620,Windows 10,1.21kg,105,8,449,MS111 optical,KB216 ,UC150 with Mic
+225,XPS 13,Intel Core i7 8550U 1.8GHz,8,124504,Ultrabook,13.3,Full HD 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.2kg,134,8,449,MS116 optical,WD4XO,UC150 with Mic
+218,XPS 13,Intel Core i7 7500U 2.7GHz,8,116461,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,256GB SSD,Intel HD Graphics 620,Windows 10,1.29kg,125,8,449,MS116 optical,WD4XO,UC150 with Mic
+230,Latitude 7480,Intel Core i5 7200U 2.5GHz,8,129235,Ultrabook,14.0,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.36kg,96,8,449,MS111 optical,KB216 ,UC150 with Mic
+1,Inspiron 3552,Intel Celeron Dual Core N3060 1.6GHz,4,21675,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics,Linux,2.2kg,37,4,450,MS116 optical,WD4XO,UC150 with Mic
+34,Vostro 3568,Intel Core i3 6006U 2.0GHz,4,44045,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 520,Windows 10,2.18kg,73,4,450,MS111 optical,WD4XO,UC150 with Mic
+12,Vostro 3568,Intel Core i3 6006U 2.0GHz,4,35001,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 520,Linux,2.18kg,73,4,450,WM118 optical,KB216 ,UC300 with Mic
+13,Inspiron 3552,Intel Pentium Quad Core N3700 1.6GHz,4,35008,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics,Windows 10,2.2kg,48,4,450,WM118 optical,KB216 ,UC300 with Mic
+9,Inspiron 3567,Intel Core i3 6006U 2GHz,4,33009,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 520,Windows 10,2.3kg,72,4,450,WM118 optical,KB216 ,UC300 with Mic
+14,Inspiron 3567,Intel Core i3 6006U 2GHz,4,35403,Notebook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon R5 M430,Windows 10,2.2kg,72,4,450,WM118 optical,KB216 ,UC300 with Mic
+7,Inspiron 3552,Intel Celeron Dual Core N3050 1.6GHz,2,29884,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics,Windows 10,2.20kg,35,2,450,MS111 optical,KB216 ,UC150 with Mic
+47,Vostro 3568,Intel Core i3 6006U 2GHz,4,48721,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R5 M420,Windows 10,2.18kg,72,4,450,MS111 optical,WD4XO,UC150 with Mic
+46,Vostro 3568,Intel Core i3 6006U 2.0GHz,4,48413,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R5 M420X,Windows 10,2.18kg,73,4,450,MS111 optical,WD4XO,UC150 with Mic
+19,Inspiron 3567,Intel Core i3 6006U 2.0GHz,4,36714,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R5 M430,Linux,2.25kg,73,4,450,WM126 optical red,DE-KB-2234,UC300 with Mic
+15,Vostro 3568,Intel Core i3 6006U 2.0GHz,4,35931,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R5 M420X,Linux,2.18kg,73,4,450,WM118 optical,KB216 ,UC300 with Mic
+17,Inspiron 3567,Intel Core i3 7100U 2.4GHz,6,36192,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.3kg,76,6,450,WM118 optical,KB216 ,UC300 with Mic
+40,Vostro 3568,Intel Core i3 7100U 2.4GHz,4,46253,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.18kg,76,4,450,MS111 optical,WD4XO,UC150 with Mic
+39,Latitude 3480,Intel Core i3 6006U 2GHz,4,46127,Notebook,14.0,1366x768,500GB HDD,Intel HD Graphics 520,Windows 10,1.76kg,72,4,450,MS111 optical,WD4XO,UC150 with Mic
+6,Inspiron 3552,Intel Pentium Quad Core N3710 1.6GHz,4,29095,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics,Windows 10,2.2kg,49,4,450,MS111 optical,KB216 ,UC150 with Mic
+32,Vostro 3568,Intel Core i3 7100U 2.4GHz,4,43130,Notebook,15.6,1366x768,128GB SSD,Intel HD Graphics 620,Windows 10,2.18kg,76,4,450,MS116 optical,WD4XO,UC150 with Mic
+8,Inspiron 3552,Intel Pentium Quad Core N3700 1.6GHz,4,31026,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics,Linux,2.2kg,48,4,450,WM118 optical,KB216 ,UC300 with Mic
+4,Inspiron 3552,Intel Pentium Quad Core N3710 1.6GHz,4,25547,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics,Linux,2.2kg,49,4,450,MS111 optical,KB216 ,UC150 with Mic
+22,Latitude 3570,Intel Core i3 6100U 2.3GHz,4,38004,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 520,Windows 10,2.06kg,75,4,450,WM126 optical red,DE-KB-2234,UC300 with Mic
+23,Inspiron 3567,Intel Core i3 6006U 2GHz,4,38242,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M430,Linux,2.2kg,72,4,450,WM126 optical red,DE-KB-2234,UC300 with Mic
+2,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,4,23260,Netbook,11.6,1366x768,16GB Flash Storage,Intel HD Graphics 400,Chrome OS,1.26kg,37,4,450,MS116 optical,WD4XO,UC150 with Mic
+10,Inspiron 3567,Intel Core i3 6006U 2.0GHz,4,33747,Notebook,15.6,Full HD 1920x1080,1TB HDD,AMD Radeon R5 M430,Linux,2.25kg,73,4,450,WM118 optical,KB216 ,UC300 with Mic
+18,Vostro 3568,Intel Core i3 6006U 2GHz,4,36665,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R5 M420,Linux,2.18kg,72,4,450,WM118 optical,KB216 ,UC300 with Mic
+25,Inspiron 3567,Intel Core i3 6006U 2GHz,4,39338,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R5 M430,Windows 10,2.2kg,72,4,450,WM126 optical red,DE-KB-2234,UC300 with Mic
+24,Vostro 3568,Intel Core i3 6006U 2GHz,4,38636,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 520,Windows 10,2.29kg,72,4,450,WM126 optical red,DE-KB-2234,UC300 with Mic
+26,Inspiron 5567,Intel Core i3 6006U 2.0GHz,4,39346,Notebook,15.6,1366x768,128GB SSD,AMD Radeon R7 M440,Windows 10,2.3kg,73,4,450,WM126 optical red,DE-KB-2234,UC300 with Mic
+31,Inspiron 3567,Intel Core i3 6006U 2GHz,4,43026,Notebook,15.6,1366x768,1TB HDD,AMD Radeon R5 M430,Windows 10,2.2kg,72,4,450,MS116 optical,WD4XO,UC150 with Mic
+3,Inspiron 3552,Intel Celeron Dual Core N3060 1.60GHz,4,24364,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 400,Windows 10,1.8kg,36,4,450,MS111 optical,KB216 ,UC150 with Mic
+11,Inspiron 3567,Intel Core i3 7100U 2.4GHz,6,34615,Notebook,15.6,Touchscreen 1366x768,1TB HDD,Intel HD Graphics 620,Windows 10,2.3kg,76,6,450,WM118 optical,KB216 ,UC300 with Mic
+131,Latitude 5580,Intel Core i5 7300U 2.6GHz,8,73724,Notebook,15.6,Full HD 1920x1080,500GB HDD,Intel HD Graphics 620,Windows 10,1.9kg,100,8,451,MS111 optical,KB216 ,UC300 with Mic
+180,Latitude 5580,Intel Core i5 7300U 2.6GHz,8,92964,Notebook,15.6,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.9kg,100,8,451,MS111 optical,KB216 ,UC300 with Mic
+132,Latitude 5580,Intel Core i5 7200U 2.5GHz,8,74513,Notebook,15.6,Full HD 1920x1080,128GB SSD,Intel HD Graphics 620,Windows 10,1.9kg,96,8,451,MS111 optical,KB216 ,UC300 with Mic
+125,Inspiron 5567,Intel Core i7 7500U 2.7GHz,8,70886,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R7 M445,Windows 10,2.33kg,125,8,451,MS111 optical,KB216 ,UC300 with Mic
+128,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8,72463,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon 530,Windows 10,2.2kg,134,8,451,MS111 optical,KB216 ,UC300 with Mic
+124,Inspiron 5567,Intel Core i7 7500U 2.7GHz,16,70886,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R7 M445,Linux,2.36kg,125,16,451,MS111 optical,KB216 ,UC300 with Mic
+238,XPS 15,Intel Core i5 7300HQ 2.5GHz,8,137908,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06kg,99,8,451,MS111 optical,KB216 ,UC150 with Mic
+127,Vostro 5568,Intel Core i5 7200U 2.5GHz,4,71950,Notebook,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce 940MX,Windows 10,2.18kg,96,4,451,MS111 optical,KB216 ,UC300 with Mic
+251,XPS 15,Intel Core i7 7700HQ 2.8GHz,16,149736,Notebook,15.6,Full HD 1920x1080,512GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06kg,130,16,451,MS111 optical,KB216 ,UC150 with Mic
+121,Inspiron 5567,Intel Core i5 7200U 2.5GHz,8,70097,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R7 M445,Windows 10,2.36kg,96,8,451,MS111 optical,KB216 ,UC300 with Mic
+244,XPS 15,Intel Core i7 7700HQ 2.8GHz,8,143507,Notebook,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2kg,130,8,451,MS111 optical,KB216 ,UC150 with Mic
+245,XPS 15,Intel Core i7 7700HQ 2.8GHz,8,144216,Notebook,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2kg,130,8,451,MS111 optical,KB216 ,UC150 with Mic
+119,Inspiron 5770,Intel Core i5 8250U 1.6GHz,8,70097,Notebook,17.3,IPS Panel Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Linux,2.8kg,105,8,451,MS111 optical,KB216 ,UC300 with Mic
+259,XPS 15,Intel Core i7 7700HQ 2.8GHz,16,159862,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,512GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06kg,130,16,451,MS111 optical,KB216 ,UC150 with Mic
+260,Alienware 17,Intel Core i7 7700HQ 2.7GHz,8,161327,Notebook,17.3,IPS Panel Full HD 1920x1080,1TB HDD,Nvidia GeForce GTX 1060,Windows 10,4.42kg,129,8,451,MS111 optical,KB216 ,UC150 with Mic
+264,XPS 15,Intel Core i5 6300HQ 2.3GHz,8,177466,Notebook,15.6,IPS Panel Touchscreen / 4K Ultra HD 3840x2160,256GB SSD,Nvidia GeForce 960M,Windows 10,2.04kg,92,8,451,MS111 optical,KB216 ,UC150 with Mic
+267,XPS 15,Intel Core i7 7700HQ 2.8GHz,16,189003,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,512GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06kg,130,16,451,MS111 optical,KB216 ,UC150 with Mic
+268,XPS 15,Intel Core i7 7700HQ 2.8GHz,16,189161,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,1TB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06kg,130,16,451,MS111 optical,KB216 ,UC150 with Mic
+122,Vostro 5568,Intel Core i7 7500U 2.7GHz,8,70571,Notebook,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce GT 940MX,Linux,1.98kg,125,8,451,MS111 optical,KB216 ,UC300 with Mic
+136,Latitude 3580,Intel Core i5 7200U 2.5GHz,8,75301,Notebook,15.6,Full HD 1920x1080,1TB HDD,Intel HD Graphics 620,Windows 10,2.06kg,96,8,451,WM118 optical,KB216 ,UC300 with Mic
+139,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8,76555,Notebook,15.6,Full HD 1920x1080,128GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.02kg,134,8,451,WM118 optical,KB216 ,UC300 with Mic
+138,Vostro 5568,Intel Core i7 7500U 2.7GHz,8,75774,Notebook,15.6,Full HD 1920x1080,1TB HDD,Nvidia GeForce GT 940MX,Windows 10,1.98kg,125,8,451,WM118 optical,KB216 ,UC300 with Mic
+168,Latitude 5480,Intel Core i5 7200U 2.5GHz,8,88233,Notebook,14.0,Full HD 1920x1080,128GB SSD,Intel HD Graphics 620 ,Windows 10,1.6kg,96,8,451,MS111 optical,KB216 ,UC150 with Mic
+169,Latitude 5480,Intel Core i5 7200U 2.5GHz,8,88841,Notebook,14.0,1366x768,256GB SSD,Intel HD Graphics 620,Windows 10,1.6kg,96,8,451,MS111 optical,KB216 ,UC150 with Mic
+170,Inspiron 7570,Intel Core i7 8550U 1.8GHz,8,89126,Notebook,15.6,IPS Panel Full HD 1920x1080,256GB SSD +  1TB HDD,Nvidia GeForce 940MX,Windows 10,2.16kg,134,8,451,MS111 optical,KB216 ,UC150 with Mic
+197,Inspiron 5770,Intel Core i7 8550U 1.8GHz,16,102426,Notebook,17.3,Full HD 1920x1080,256GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.8kg,134,16,451,MS116 optical,WD4XO,UC150 with Mic
+171,Inspiron 5570,Intel Core i7 8550U 1.8GHz,16,89494,Notebook,15.6,Full HD 1920x1080,256GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.2kg,134,16,451,MS111 optical,KB216 ,UC150 with Mic
+194,Latitude 5480,Intel Core i5 7300U 2.6GHz,8,100906,Notebook,14.0,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.64kg,100,8,451,MS116 optical,WD4XO,UC150 with Mic
+173,Inspiron 5770,Intel Core i7 8550U 1.8GHz,8,90046,Notebook,17.3,Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.8kg,134,8,451,MS111 optical,KB216 ,UC300 with Mic
+167,Latitude 5580,Intel Core i5 7200U 2.5GHz,8,88074,Notebook,15.6,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.9kg,96,8,451,MS111 optical,KB216 ,UC150 with Mic
+191,Inspiron 7570,Intel Core i7 8550U 1.8GHz,8,99508,Notebook,15.6,IPS Panel Full HD 1920x1080,512GB SSD,Nvidia GeForce 940MX,Windows 10,2.16kg,134,8,451,WM118 optical,KB216 ,UC300 with Mic
+189,Latitude E7470,Intel Core i5 6300U 2.4GHz,8,96906,Notebook,14.0,Full HD 1920x1080,256GB SSD,Intel HD Graphics 520,Windows 10,1.56kg,93,8,451,WM118 optical,KB216 ,UC300 with Mic
+188,Inspiron 5570,Intel Core i7 8550U 1.8GHz,16,96137,Notebook,15.6,Full HD 1920x1080,256GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.2kg,134,16,451,WM118 optical,KB216 ,UC300 with Mic
+187,Inspiron 7560,Intel Core i7 7500U 2.7GHz,8,95171,Notebook,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,Nvidia GeForce 940MX,Windows 10,2.0kg,125,8,451,WM118 optical,KB216 ,UC300 with Mic
+186,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,8,95014,Notebook,14.0,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.6kg,101,8,451,WM118 optical,KB216 ,UC300 with Mic
+175,Inspiron 7570,Intel Core i5 8250U 1.6GHz,8,90105,Notebook,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce 940MX,Windows 10,2kg,105,8,451,MS111 optical,KB216 ,UC300 with Mic
+179,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,8,92964,Notebook,14.0,Full HD 1920x1080,256GB SSD,Nvidia GeForce 930MX,Windows 10,1.64kg,101,8,451,MS111 optical,KB216 ,UC300 with Mic
+182,Inspiron 5567,Intel Core i7 7500U 2.7GHz,16,93143,Notebook,15.6,Full HD 1920x1080,256GB SSD,AMD Radeon R7 M445,Windows 10,2.3kg,125,16,451,MS111 optical,KB216 ,UC300 with Mic
+174,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8,90078,Notebook,15.6,Full HD 1920x1080,256GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.02kg,134,8,451,MS111 optical,KB216 ,UC300 with Mic
+137,Latitude 5580,Intel Core i5 7300U 2.6GHz,4,75617,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 620,Windows 10,1.93kg,100,4,451,WM118 optical,KB216 ,UC300 with Mic
+204,Latitude 5580,Intel Core i7 7600U 2.8GHz,8,107945,Notebook,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce 930MX,Windows 10,1.93kg,127,8,451,MS116 optical,WD4XO,UC150 with Mic
+151,Latitude E5570,Intel Core i5 6300U 2.4GHz,8,82511,Notebook,15.6,Full HD 1920x1080,500GB HDD,Intel HD Graphics 520,Windows 10,2.09kg,93,8,451,MS116 optical,WD4XO,UC150 with Mic
+141,Inspiron 5770,Intel Core i5 8250U 1.6GHz,8,77194,Notebook,17.3,IPS Panel Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.8kg,105,8,451,WM118 optical,DE-KB-2234,UC300 with Mic
+142,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8,77194,Notebook,15.6,Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.36kg,134,8,451,WM118 optical,DE-KB-2234,UC300 with Mic
+224,Inspiron 7773,Intel Core i7 8550U 1.8GHz,16,122138,Notebook,17.3,Full HD / Touchscreen 1920x1080,512GB SSD,Nvidia GeForce 150MX,Windows 10,2.77kg,134,16,451,MS116 optical,WD4XO,UC150 with Mic
+223,Latitude 5580,Intel Core i7 7600U 2.8GHz,16,121223,Notebook,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce 930MX,Windows 10,1.93kg,127,16,451,MS116 optical,WD4XO,UC150 with Mic
+143,Inspiron 5570,Intel Core i7 8550U 1.8GHz,8,77667,Notebook,15.6,Full HD 1920x1080,128GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.2kg,134,8,451,WM118 optical,DE-KB-2234,UC300 with Mic
+145,Inspiron 5567,Intel Core i7 7500U 2.7GHz,16,78060,Notebook,15.6,Full HD 1920x1080,2TB HDD,AMD Radeon R7 M445,Windows 10,2.32kg,125,16,451,WM118 optical,DE-KB-2234,UC300 with Mic
+149,Latitude 5580,Intel Core i5 7300U 2.6GHz,8,79521,Notebook,15.6,1366x768,500GB HDD,Intel HD Graphics 620,Windows 10,1.9kg,100,8,451,WM118 optical,DE-KB-2234,UC300 with Mic
+150,Vostro 5568,Intel Core i7 7500U 2.7GHz,8,79630,Notebook,15.6,Full HD 1920x1080,256GB SSD,Nvidia GeForce 940MX,Windows 10,2.18kg,125,8,451,WM118 optical,DE-KB-2234,UC300 with Mic
+205,Latitude 5580,Intel Core i5 7440HQ 2.8GHz,8,108576,Notebook,15.6,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.9kg,101,8,451,MS116 optical,WD4XO,UC150 with Mic
+273,XPS 15,Intel Core i7 7700HQ 2.8GHz,32,208085,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,1TB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06kg,130,32,451,MS111 optical,KB216 ,UC150 with Mic
+156,Latitude E5570,Intel Core i5 6300U 2.4GHz,8,83813,Notebook,15.6,Full HD 1920x1080,256GB SSD,Intel HD Graphics 520,Windows 7,2.09kg,93,8,451,MS116 optical,WD4XO,UC150 with Mic
+213,Latitude 7480,Intel Core i5 7300U 2.6GHz,8,112518,Notebook,14.0,Full HD 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.36kg,100,8,451,MS116 optical,WD4XO,UC150 with Mic
+212,Latitude 5580,Intel Core i5 7300U 2.6GHz,16,112492,Notebook,15.6,Full HD 1920x1080,512GB SSD,Intel HD Graphics 620,Windows 10,1.93kg,100,16,451,MS116 optical,WD4XO,UC150 with Mic
+157,Inspiron 5770,Intel Core i7 8550U 1.8GHz,8,85552,Notebook,17.3,Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.8kg,134,8,451,MS111 optical,KB216 ,UC150 with Mic
+158,Inspiron 5770,Intel Core i5 8250U 1.6GHz,8,85552,Notebook,17.3,Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.8kg,105,8,451,MS111 optical,KB216 ,UC150 with Mic
+159,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,8,85867,Notebook,14.0,Full HD 1920x1080,256GB SSD,Nvidia GeForce 930MX,Linux,1.64kg,101,8,451,MS111 optical,KB216 ,UC150 with Mic
+208,Inspiron 5770,Intel Core i7 8550U 1.8GHz,16,110074,Notebook,17.3,Full HD 1920x1080,256GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.8kg,134,16,451,MS116 optical,WD4XO,UC150 with Mic
+162,Inspiron 5770,Intel Core i7 8550U 1.8GHz,8,86656,Notebook,17.3,Full HD 1920x1080,128GB SSD +  1TB HDD,AMD Radeon 530,Linux,2.8kg,134,8,451,MS111 optical,KB216 ,UC150 with Mic
+153,Inspiron 5570,Intel Core i7 8550U 1.8GHz,16,82713,Notebook,15.6,Full HD 1920x1080,256GB SSD +  2TB HDD,AMD Radeon 530,Linux,2.02kg,134,16,451,MS116 optical,WD4XO,UC150 with Mic
+27,Inspiron 5578,Intel Core i3 7100U 2.4GHz,4,40134,2 in 1 Convertible,15.0,Full HD / Touchscreen 1920x1080,500GB HDD,Intel HD Graphics 620,Windows 10,2.08kg,76,4,453,MS116 optical,WD4XO,UC150 with Mic
+21,Inspiron 3168,Intel Pentium Quad Core N3710 1.6GHz,4,37769,2 in 1 Convertible,11.6,Touchscreen 1366x768,500GB HDD,Intel HD Graphics 405,Windows 10,1.47kg,49,4,453,WM126 optical red,DE-KB-2234,UC300 with Mic
+45,Inspiron 3179,Intel Core M 7Y30 1.0GHz,4,47546,2 in 1 Convertible,11.6,Touchscreen 1366x768,128GB SSD,Intel HD Graphics 615,Windows 10,1.39kg,56,4,453,MS111 optical,WD4XO,UC150 with Mic
+5,Inspiron 3567,Intel Core i3 6006U 2.0GHz,4,28307,Notebook,15.6,1366x768,1TB HDD,Intel HD Graphics 520,Linux,2.25kg,73,4,454,MS111 optical,KB216 ,UC150 with Mic
+181,Inspiron 5578,Intel Core i7 7500U 2.7GHz,16,92964,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,512GB SSD,Intel HD Graphics 620,Windows 10,2.09kg,125,16,454,MS111 optical,KB216 ,UC300 with Mic
+253,XPS 13,Intel Core i7 7Y75 1.3GHz,16,149736,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,512GB SSD,Intel HD Graphics 615,Windows 10,1.22kg,133,16,454,MS111 optical,KB216 ,UC150 with Mic
+185,Inspiron 7378,Intel Core i5 7200U 2.5GHz,8,94541,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.6kg,96,8,454,MS111 optical,KB216 ,UC300 with Mic
+193,Inspiron 5379,Intel Core i7 8550U 1.8GHz,16,100849,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,512GB SSD,Intel UHD Graphics 620,Windows 10,1.62kg,134,16,454,MS116 optical,WD4XO,UC150 with Mic
+195,Inspiron 5579,Intel Core i7 8550U 1.8GHz,16,101322,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,512GB SSD,Intel UHD Graphics 620,Windows 10,2kg,134,16,454,MS116 optical,WD4XO,UC150 with Mic
+198,Inspiron 7579,Intel Core i7 7500U 2.7GHz,12,102426,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,512GB SSD,Intel HD Graphics 620,Windows 10,2.19kg,125,12,454,MS116 optical,WD4XO,UC150 with Mic
+199,Inspiron 7378,Intel Core i7 7500U 2.7GHz,12,102426,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.6kg,125,12,454,MS116 optical,WD4XO,UC150 with Mic
+160,Inspiron 5578,Intel Core i5 7200U 2.7GHz,8,86261,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,2.3kg,98,8,454,MS111 optical,KB216 ,UC150 with Mic
+258,XPS 13,Intel Core i7 7Y75 1.3GHz,8,158732,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,512GB SSD,Intel HD Graphics 615,Windows 10,1.24kg,133,8,454,MS111 optical,KB216 ,UC150 with Mic
+152,Inspiron 5579,Intel Core i7 8550U 1.8GHz,8,82713,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,256GB SSD,Intel UHD Graphics 620,Windows 10,1.56kg,134,8,454,MS116 optical,WD4XO,UC150 with Mic
+232,XPS 13,Intel Core i7 7Y75 1.3GHz,16,130023,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 615,Windows 10,1.22kg,133,16,454,MS111 optical,KB216 ,UC150 with Mic
+233,Latitude 5289,Intel Core i5 7200U 2.5GHz,8,131679,2 in 1 Convertible,12.5,Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.34kg,96,8,454,MS111 optical,KB216 ,UC150 with Mic
+242,Inspiron 7779,Intel Core i7 7500U 2.7GHz,16,141851,2 in 1 Convertible,17.3,Full HD / Touchscreen 1920x1080,512GB SSD,Nvidia GeForce 940MX,Windows 10,2.77kg,125,16,454,MS111 optical,KB216 ,UC150 with Mic
+243,XPS 13,Intel Core i5 7Y54 1.2GHz,8,142955,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,256GB SSD,Intel HD Graphics 615,Windows 10,1.24kg,103,8,454,MS111 optical,KB216 ,UC150 with Mic
+120,Inspiron 5378,Intel Core i5 7200U 2.5GHz,8,70097,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,1.68kg,96,8,454,MS111 optical,KB216 ,UC300 with Mic
+252,XPS 13,Intel Core i5 7Y54 1.2GHz,8,149736,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 615,Windows 10,1.24kg,103,8,454,MS111 optical,KB216 ,UC150 with Mic
+148,Inspiron 7579,Intel Core i5 7200U 2.5GHz,8,78771,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,256GB SSD,Intel HD Graphics 620,Windows 10,2.191kg,96,8,454,WM118 optical,DE-KB-2234,UC300 with Mic
+146,Inspiron 7773,Intel Core i5 8250U 1.6GHz,12,78771,2 in 1 Convertible,17.3,Full HD / Touchscreen 1920x1080,1TB HDD,Nvidia GeForce 150MX,Windows 10,2.77kg,105,12,454,WM118 optical,DE-KB-2234,UC300 with Mic
